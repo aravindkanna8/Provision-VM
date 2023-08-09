@@ -1,0 +1,1284 @@
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+vboxmanage.exe: error: Could not find a registered machine named 'testVMbdbbh'
+vboxmanage.exe: error: Details: code VBOX_E_OBJECT_NOT_FOUND (0x80bb0001), component VirtualBoxWrap, interface IVirtualBox, callee IUnknown
+vboxmanage.exe: error: Context: "FindMachine(Bstr(a->argv[0]).raw(), machine.asOutParam())" at line 366 of file VBoxManageControlVM.cpp
+vboxmanage.exe: error: Could not find a registered machine named 'testVMbdbbh'
+vboxmanage.exe: error: Details: code VBOX_E_OBJECT_NOT_FOUND (0x80bb0001), component VirtualBoxWrap, interface IVirtualBox, callee IUnknown
+vboxmanage.exe: error: Context: "FindMachine(Bstr(VMName).raw(), machine.asOutParam())" at line 231 of file VBoxManageMisc.cpp
+vboxmanage.exe: error: Could not find a registered machine named 'testVMbhbdd'
+vboxmanage.exe: error: Details: code VBOX_E_OBJECT_NOT_FOUND (0x80bb0001), component VirtualBoxWrap, interface IVirtualBox, callee IUnknown
+vboxmanage.exe: error: Context: "FindMachine(Bstr(a->argv[0]).raw(), machine.asOutParam())" at line 366 of file VBoxManageControlVM.cpp
+vboxmanage.exe: error: Could not find a registered machine named 'testVMbhbdd'
+vboxmanage.exe: error: Details: code VBOX_E_OBJECT_NOT_FOUND (0x80bb0001), component VirtualBoxWrap, interface IVirtualBox, callee IUnknown
+vboxmanage.exe: error: Context: "FindMachine(Bstr(VMName).raw(), machine.asOutParam())" at line 231 of file VBoxManageMisc.cpp
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+vboxmanage.exe: error: Could not find a registered machine named 'testVMbceji'
+vboxmanage.exe: error: Details: code VBOX_E_OBJECT_NOT_FOUND (0x80bb0001), component VirtualBoxWrap, interface IVirtualBox, callee IUnknown
+vboxmanage.exe: error: Context: "FindMachine(Bstr(a->argv[0]).raw(), machine.asOutParam())" at line 366 of file VBoxManageControlVM.cpp
+vboxmanage.exe: error: Could not find a registered machine named 'testVMbceji'
+vboxmanage.exe: error: Details: code VBOX_E_OBJECT_NOT_FOUND (0x80bb0001), component VirtualBoxWrap, interface IVirtualBox, callee IUnknown
+vboxmanage.exe: error: Context: "FindMachine(Bstr(VMName).raw(), machine.asOutParam())" at line 231 of file VBoxManageMisc.cpp
+vboxmanage.exe: error: Could not find a registered machine named 'testVMchhbd'
+vboxmanage.exe: error: Details: code VBOX_E_OBJECT_NOT_FOUND (0x80bb0001), component VirtualBoxWrap, interface IVirtualBox, callee IUnknown
+vboxmanage.exe: error: Context: "FindMachine(Bstr(a->argv[0]).raw(), machine.asOutParam())" at line 366 of file VBoxManageControlVM.cpp
+vboxmanage.exe: error: Could not find a registered machine named 'testVMchhbd'
+vboxmanage.exe: error: Details: code VBOX_E_OBJECT_NOT_FOUND (0x80bb0001), component VirtualBoxWrap, interface IVirtualBox, callee IUnknown
+vboxmanage.exe: error: Context: "FindMachine(Bstr(VMName).raw(), machine.asOutParam())" at line 231 of file VBoxManageMisc.cpp
+vboxmanage.exe: error: Could not find a registered machine named 'testVMbdeic'
+vboxmanage.exe: error: Details: code VBOX_E_OBJECT_NOT_FOUND (0x80bb0001), component VirtualBoxWrap, interface IVirtualBox, callee IUnknown
+vboxmanage.exe: error: Context: "FindMachine(Bstr(a->argv[0]).raw(), machine.asOutParam())" at line 366 of file VBoxManageControlVM.cpp
+vboxmanage.exe: error: Could not find a registered machine named 'testVMbdeic'
+vboxmanage.exe: error: Details: code VBOX_E_OBJECT_NOT_FOUND (0x80bb0001), component VirtualBoxWrap, interface IVirtualBox, callee IUnknown
+vboxmanage.exe: error: Context: "FindMachine(Bstr(VMName).raw(), machine.asOutParam())" at line 231 of file VBoxManageMisc.cpp
+vboxmanage.exe: error: Could not find a registered machine named 'testVMceefe'
+vboxmanage.exe: error: Details: code VBOX_E_OBJECT_NOT_FOUND (0x80bb0001), component VirtualBoxWrap, interface IVirtualBox, callee IUnknown
+vboxmanage.exe: error: Context: "FindMachine(Bstr(a->argv[0]).raw(), machine.asOutParam())" at line 366 of file VBoxManageControlVM.cpp
+vboxmanage.exe: error: Could not find a registered machine named 'testVMceefe'
+vboxmanage.exe: error: Details: code VBOX_E_OBJECT_NOT_FOUND (0x80bb0001), component VirtualBoxWrap, interface IVirtualBox, callee IUnknown
+vboxmanage.exe: error: Context: "FindMachine(Bstr(VMName).raw(), machine.asOutParam())" at line 231 of file VBoxManageMisc.cpp
+vboxmanage.exe: error: An unexpected process (PID=0x00000E00) has tried to lock the machine 'testVMcbdhc', while only the process started by LaunchVMProcess (PID=0x000047C4) is allowed
+vboxmanage.exe: error: Details: code E_ACCESSDENIED (0x80070005), component MachineWrap, interface IMachine, callee IUnknown
+vboxmanage.exe: error: Context: "LockMachine(a->session, LockType_Shared)" at line 371 of file VBoxManageControlVM.cpp
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+vboxmanage.exe: error: Machine 'testVMbgjbc' is not currently running.
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+vboxmanage.exe: error: Could not find a registered machine named 'testVMcccii'
+vboxmanage.exe: error: Details: code VBOX_E_OBJECT_NOT_FOUND (0x80bb0001), component VirtualBoxWrap, interface IVirtualBox, callee IUnknown
+vboxmanage.exe: error: Context: "FindMachine(Bstr(a->argv[0]).raw(), machine.asOutParam())" at line 366 of file VBoxManageControlVM.cpp
+vboxmanage.exe: error: Machine 'testVMjhaf' is not currently running.
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+vboxmanage.exe: error: Invalid machine state: Starting (must be Running, Paused or Stuck)
+vboxmanage.exe: error: Details: code VBOX_E_INVALID_VM_STATE (0x80bb0002), component ConsoleWrap, interface IConsole, callee IUnknown
+vboxmanage.exe: error: Context: "PowerDown(progress.asOutParam())" at line 604 of file VBoxManageControlVM.cpp
+vboxmanage.exe: error: Cannot unregister the machine 'testVMbbfj' while it is locked
+vboxmanage.exe: error: Details: code VBOX_E_INVALID_OBJECT_STATE (0x80bb0007), component MachineWrap, interface IMachine, callee IUnknown
+vboxmanage.exe: error: Context: "Unregister(fDeleteAll ? CleanupMode_DetachAllReturnHardDisksAndVMRemovable :CleanupMode_DetachAllReturnHardDisksOnly, ComSafeArrayAsOutParam(aMedia))" at line 236 of file VBoxManageMisc.cpp
+vboxmanage.exe: error: Machine 'testVMbbgia' is not currently running.
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+vboxmanage.exe: error: Machine 'testVMcjhih' is not currently running.
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+vboxmanage.exe: error: Machine 'testVMcghcj' is not currently running.
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+vboxmanage.exe: error: Machine 'testVMgcee' is not currently running.
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+vboxmanage.exe: error: Machine 'testVMcdbic' is not currently running.
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+vboxmanage.exe: error: Machine 'testVMcbge' is not currently running.
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+vboxmanage.exe: error: Machine 'testVMbjjb' is not currently running.
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+vboxmanage.exe: error: Machine 'testVMbahjh' is not currently running.
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+vboxmanage.exe: error: Machine 'testVMbfeeb' is not currently running.
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+vboxmanage.exe: error: Machine 'testVMjfea' is not currently running.
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+vboxmanage.exe: error: Machine 'testVMdaidc' is not currently running.
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+vboxmanage.exe: error: Machine 'testVMbfea' is not currently running.
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+vboxmanage.exe: error: Machine 'testVMdjae' is not currently running.
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+vboxmanage.exe: error: Machine 'testVMbgbh' is not currently running.
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+vboxmanage.exe: error: Machine 'testVMdagfj' is not currently running.
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+vboxmanage.exe: error: Machine 'testVMcdjfi' is not currently running.
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+vboxmanage.exe: error: Machine 'testVMbaghe' is not currently running.
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+vboxmanage.exe: error: Could not find a registered machine named 'testVMieef'
+vboxmanage.exe: error: Details: code VBOX_E_OBJECT_NOT_FOUND (0x80bb0001), component VirtualBoxWrap, interface IVirtualBox, callee IUnknown
+vboxmanage.exe: error: Context: "FindMachine(Bstr(a->argv[0]).raw(), machine.asOutParam())" at line 366 of file VBoxManageControlVM.cpp
+vboxmanage.exe: error: Could not find a registered machine named 'testVMieef'
+vboxmanage.exe: error: Details: code VBOX_E_OBJECT_NOT_FOUND (0x80bb0001), component VirtualBoxWrap, interface IVirtualBox, callee IUnknown
+vboxmanage.exe: error: Context: "FindMachine(Bstr(VMName).raw(), machine.asOutParam())" at line 231 of file VBoxManageMisc.cpp
+vboxmanage.exe: error: Machine 'testVMbjffe' is not currently running.
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+vboxmanage.exe: error: Machine 'testVMcieeg' is not currently running.
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+vboxmanage.exe: error: An unexpected process (PID=0x00002EFC) has tried to lock the machine 'testVMbdfhi', while only the process started by LaunchVMProcess (PID=0x0000513C) is allowed
+vboxmanage.exe: error: Details: code E_ACCESSDENIED (0x80070005), component MachineWrap, interface IMachine, callee IUnknown
+vboxmanage.exe: error: Context: "LockMachine(a->session, LockType_Shared)" at line 371 of file VBoxManageControlVM.cpp
+vboxmanage.exe: error: Cannot unregister the machine 'testVMbdfhi' while it is locked
+vboxmanage.exe: error: Details: code VBOX_E_INVALID_OBJECT_STATE (0x80bb0007), component MachineWrap, interface IMachine, callee IUnknown
+vboxmanage.exe: error: Context: "Unregister(fDeleteAll ? CleanupMode_DetachAllReturnHardDisksAndVMRemovable :CleanupMode_DetachAllReturnHardDisksOnly, ComSafeArrayAsOutParam(aMedia))" at line 236 of file VBoxManageMisc.cpp
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+vboxmanage.exe: error: Machine 'newvm' is not currently running.
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+vboxmanage.exe: error: Machine 'newvm' is not currently running.
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+vboxmanage.exe: error: Machine 'newvm' is not currently running.
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+vboxmanage.exe: error: Machine 'testVMchihj' is not currently running.
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+vboxmanage.exe: error: An unexpected process (PID=0x000015D0) has tried to lock the machine 'testVMbgggb', while only the process started by LaunchVMProcess (PID=0x00001210) is allowed
+vboxmanage.exe: error: Details: code E_ACCESSDENIED (0x80070005), component MachineWrap, interface IMachine, callee IUnknown
+vboxmanage.exe: error: Context: "LockMachine(a->session, LockType_Shared)" at line 371 of file VBoxManageControlVM.cpp
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+vboxmanage.exe: error: Machine 'testVMbejea' is not currently running.
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+vboxmanage.exe: error: Invalid machine state: Starting (must be Running, Paused or Stuck)
+vboxmanage.exe: error: Details: code VBOX_E_INVALID_VM_STATE (0x80bb0002), component ConsoleWrap, interface IConsole, callee IUnknown
+vboxmanage.exe: error: Context: "PowerDown(progress.asOutParam())" at line 604 of file VBoxManageControlVM.cpp
+vboxmanage.exe: error: Cannot unregister the machine 'testVMbhbf' while it is locked
+vboxmanage.exe: error: Details: code VBOX_E_INVALID_OBJECT_STATE (0x80bb0007), component MachineWrap, interface IMachine, callee IUnknown
+vboxmanage.exe: error: Context: "Unregister(fDeleteAll ? CleanupMode_DetachAllReturnHardDisksAndVMRemovable :CleanupMode_DetachAllReturnHardDisksOnly, ComSafeArrayAsOutParam(aMedia))" at line 236 of file VBoxManageMisc.cpp
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+vboxmanage.exe: error: Invalid machine state: Starting (must be Running, Paused or Stuck)
+vboxmanage.exe: error: Details: code VBOX_E_INVALID_VM_STATE (0x80bb0002), component ConsoleWrap, interface IConsole, callee IUnknown
+vboxmanage.exe: error: Context: "PowerDown(progress.asOutParam())" at line 604 of file VBoxManageControlVM.cpp
+vboxmanage.exe: error: Cannot unregister the machine 'testVMhfgj' while it is locked
+vboxmanage.exe: error: Details: code VBOX_E_INVALID_OBJECT_STATE (0x80bb0007), component MachineWrap, interface IMachine, callee IUnknown
+vboxmanage.exe: error: Context: "Unregister(fDeleteAll ? CleanupMode_DetachAllReturnHardDisksAndVMRemovable :CleanupMode_DetachAllReturnHardDisksOnly, ComSafeArrayAsOutParam(aMedia))" at line 236 of file VBoxManageMisc.cpp
+vboxmanage.exe: error: Could not find a registered machine named 'new1'
+vboxmanage.exe: error: Details: code VBOX_E_OBJECT_NOT_FOUND (0x80bb0001), component VirtualBoxWrap, interface IVirtualBox, callee IUnknown
+vboxmanage.exe: error: Context: "FindMachine(Bstr(a->argv[0]).raw(), machine.asOutParam())" at line 366 of file VBoxManageControlVM.cpp
+vboxmanage.exe: error: Could not find a registered machine named 'new1'
+vboxmanage.exe: error: Details: code VBOX_E_OBJECT_NOT_FOUND (0x80bb0001), component VirtualBoxWrap, interface IVirtualBox, callee IUnknown
+vboxmanage.exe: error: Context: "FindMachine(Bstr(a->argv[0]).raw(), machine.asOutParam())" at line 366 of file VBoxManageControlVM.cpp
+vboxmanage.exe: error: Could not find a registered machine named 'new1'
+vboxmanage.exe: error: Details: code VBOX_E_OBJECT_NOT_FOUND (0x80bb0001), component VirtualBoxWrap, interface IVirtualBox, callee IUnknown
+vboxmanage.exe: error: Context: "FindMachine(Bstr(VMName).raw(), machine.asOutParam())" at line 231 of file VBoxManageMisc.cpp
+vboxmanage.exe: error: Could not find a registered machine named 'new1'
+vboxmanage.exe: error: Details: code VBOX_E_OBJECT_NOT_FOUND (0x80bb0001), component VirtualBoxWrap, interface IVirtualBox, callee IUnknown
+vboxmanage.exe: error: Context: "FindMachine(Bstr(VMName).raw(), machine.asOutParam())" at line 231 of file VBoxManageMisc.cpp
+vboxmanage.exe: error: Could not find a registered machine named 'new2'
+vboxmanage.exe: error: Details: code VBOX_E_OBJECT_NOT_FOUND (0x80bb0001), component VirtualBoxWrap, interface IVirtualBox, callee IUnknown
+vboxmanage.exe: error: Context: "FindMachine(Bstr(a->argv[0]).raw(), machine.asOutParam())" at line 366 of file VBoxManageControlVM.cpp
+vboxmanage.exe: error: Could not find a registered machine named 'new2'
+vboxmanage.exe: error: Details: code VBOX_E_OBJECT_NOT_FOUND (0x80bb0001), component VirtualBoxWrap, interface IVirtualBox, callee IUnknown
+vboxmanage.exe: error: Context: "FindMachine(Bstr(a->argv[0]).raw(), machine.asOutParam())" at line 366 of file VBoxManageControlVM.cpp
+vboxmanage.exe: error: Could not find a registered machine named 'new2'
+vboxmanage.exe: error: Details: code VBOX_E_OBJECT_NOT_FOUND (0x80bb0001), component VirtualBoxWrap, interface IVirtualBox, callee IUnknown
+vboxmanage.exe: error: Context: "FindMachine(Bstr(VMName).raw(), machine.asOutParam())" at line 231 of file VBoxManageMisc.cpp
+vboxmanage.exe: error: Could not find a registered machine named 'new2'
+vboxmanage.exe: error: Details: code VBOX_E_OBJECT_NOT_FOUND (0x80bb0001), component VirtualBoxWrap, interface IVirtualBox, callee IUnknown
+vboxmanage.exe: error: Context: "FindMachine(Bstr(VMName).raw(), machine.asOutParam())" at line 231 of file VBoxManageMisc.cpp
+vboxmanage.exe: error: Could not find a registered machine named 'new3'
+vboxmanage.exe: error: Details: code VBOX_E_OBJECT_NOT_FOUND (0x80bb0001), component VirtualBoxWrap, interface IVirtualBox, callee IUnknown
+vboxmanage.exe: error: Context: "FindMachine(Bstr(a->argv[0]).raw(), machine.asOutParam())" at line 366 of file VBoxManageControlVM.cpp
+vboxmanage.exe: error: Could not find a registered machine named 'new3'
+vboxmanage.exe: error: Details: code VBOX_E_OBJECT_NOT_FOUND (0x80bb0001), component VirtualBoxWrap, interface IVirtualBox, callee IUnknown
+vboxmanage.exe: error: Context: "FindMachine(Bstr(a->argv[0]).raw(), machine.asOutParam())" at line 366 of file VBoxManageControlVM.cpp
+vboxmanage.exe: error: Could not find a registered machine named 'new3'
+vboxmanage.exe: error: Details: code VBOX_E_OBJECT_NOT_FOUND (0x80bb0001), component VirtualBoxWrap, interface IVirtualBox, callee IUnknown
+vboxmanage.exe: error: Context: "FindMachine(Bstr(VMName).raw(), machine.asOutParam())" at line 231 of file VBoxManageMisc.cpp
+vboxmanage.exe: error: Could not find a registered machine named 'new3'
+vboxmanage.exe: error: Details: code VBOX_E_OBJECT_NOT_FOUND (0x80bb0001), component VirtualBoxWrap, interface IVirtualBox, callee IUnknown
+vboxmanage.exe: error: Context: "FindMachine(Bstr(VMName).raw(), machine.asOutParam())" at line 231 of file VBoxManageMisc.cpp
+vboxmanage.exe: error: Could not find a registered machine named 'new1'
+vboxmanage.exe: error: Details: code VBOX_E_OBJECT_NOT_FOUND (0x80bb0001), component VirtualBoxWrap, interface IVirtualBox, callee IUnknown
+vboxmanage.exe: error: Context: "FindMachine(Bstr(a->argv[0]).raw(), machine.asOutParam())" at line 366 of file VBoxManageControlVM.cpp
+vboxmanage.exe: error: Could not find a registered machine named 'new1'
+vboxmanage.exe: error: Details: code VBOX_E_OBJECT_NOT_FOUND (0x80bb0001), component VirtualBoxWrap, interface IVirtualBox, callee IUnknown
+vboxmanage.exe: error: Context: "FindMachine(Bstr(a->argv[0]).raw(), machine.asOutParam())" at line 366 of file VBoxManageControlVM.cpp
+vboxmanage.exe: error: Could not find a registered machine named 'new1'
+vboxmanage.exe: error: Details: code VBOX_E_OBJECT_NOT_FOUND (0x80bb0001), component VirtualBoxWrap, interface IVirtualBox, callee IUnknown
+vboxmanage.exe: error: Context: "FindMachine(Bstr(VMName).raw(), machine.asOutParam())" at line 231 of file VBoxManageMisc.cpp
+vboxmanage.exe: error: Could not find a registered machine named 'new1'
+vboxmanage.exe: error: Details: code VBOX_E_OBJECT_NOT_FOUND (0x80bb0001), component VirtualBoxWrap, interface IVirtualBox, callee IUnknown
+vboxmanage.exe: error: Context: "FindMachine(Bstr(VMName).raw(), machine.asOutParam())" at line 231 of file VBoxManageMisc.cpp
+vboxmanage.exe: error: Could not find a registered machine named 'new2'
+vboxmanage.exe: error: Details: code VBOX_E_OBJECT_NOT_FOUND (0x80bb0001), component VirtualBoxWrap, interface IVirtualBox, callee IUnknown
+vboxmanage.exe: error: Context: "FindMachine(Bstr(a->argv[0]).raw(), machine.asOutParam())" at line 366 of file VBoxManageControlVM.cpp
+vboxmanage.exe: error: Could not find a registered machine named 'new2'
+vboxmanage.exe: error: Details: code VBOX_E_OBJECT_NOT_FOUND (0x80bb0001), component VirtualBoxWrap, interface IVirtualBox, callee IUnknown
+vboxmanage.exe: error: Context: "FindMachine(Bstr(a->argv[0]).raw(), machine.asOutParam())" at line 366 of file VBoxManageControlVM.cpp
+vboxmanage.exe: error: Could not find a registered machine named 'new2'
+vboxmanage.exe: error: Details: code VBOX_E_OBJECT_NOT_FOUND (0x80bb0001), component VirtualBoxWrap, interface IVirtualBox, callee IUnknown
+vboxmanage.exe: error: Context: "FindMachine(Bstr(VMName).raw(), machine.asOutParam())" at line 231 of file VBoxManageMisc.cpp
+vboxmanage.exe: error: Could not find a registered machine named 'new2'
+vboxmanage.exe: error: Details: code VBOX_E_OBJECT_NOT_FOUND (0x80bb0001), component VirtualBoxWrap, interface IVirtualBox, callee IUnknown
+vboxmanage.exe: error: Context: "FindMachine(Bstr(VMName).raw(), machine.asOutParam())" at line 231 of file VBoxManageMisc.cpp
+vboxmanage.exe: error: Could not find a registered machine named 'new3'
+vboxmanage.exe: error: Details: code VBOX_E_OBJECT_NOT_FOUND (0x80bb0001), component VirtualBoxWrap, interface IVirtualBox, callee IUnknown
+vboxmanage.exe: error: Context: "FindMachine(Bstr(a->argv[0]).raw(), machine.asOutParam())" at line 366 of file VBoxManageControlVM.cpp
+vboxmanage.exe: error: Could not find a registered machine named 'new3'
+vboxmanage.exe: error: Details: code VBOX_E_OBJECT_NOT_FOUND (0x80bb0001), component VirtualBoxWrap, interface IVirtualBox, callee IUnknown
+vboxmanage.exe: error: Context: "FindMachine(Bstr(a->argv[0]).raw(), machine.asOutParam())" at line 366 of file VBoxManageControlVM.cpp
+vboxmanage.exe: error: Could not find a registered machine named 'new3'
+vboxmanage.exe: error: Details: code VBOX_E_OBJECT_NOT_FOUND (0x80bb0001), component VirtualBoxWrap, interface IVirtualBox, callee IUnknown
+vboxmanage.exe: error: Context: "FindMachine(Bstr(VMName).raw(), machine.asOutParam())" at line 231 of file VBoxManageMisc.cpp
+vboxmanage.exe: error: Could not find a registered machine named 'new3'
+vboxmanage.exe: error: Details: code VBOX_E_OBJECT_NOT_FOUND (0x80bb0001), component VirtualBoxWrap, interface IVirtualBox, callee IUnknown
+vboxmanage.exe: error: Context: "FindMachine(Bstr(VMName).raw(), machine.asOutParam())" at line 231 of file VBoxManageMisc.cpp
+vboxmanage.exe: error: Could not find a registered machine named ''
+vboxmanage.exe: error: Details: code VBOX_E_OBJECT_NOT_FOUND (0x80bb0001), component VirtualBoxWrap, interface IVirtualBox, callee IUnknown
+vboxmanage.exe: error: Context: "FindMachine(Bstr(a->argv[0]).raw(), machine.asOutParam())" at line 366 of file VBoxManageControlVM.cpp
+vboxmanage.exe: error: Could not find a registered machine named ''
+vboxmanage.exe: error: Details: code VBOX_E_OBJECT_NOT_FOUND (0x80bb0001), component VirtualBoxWrap, interface IVirtualBox, callee IUnknown
+vboxmanage.exe: error: Context: "FindMachine(Bstr(a->argv[0]).raw(), machine.asOutParam())" at line 366 of file VBoxManageControlVM.cpp
+vboxmanage.exe: error: Could not find a registered machine named ''
+vboxmanage.exe: error: Details: code VBOX_E_OBJECT_NOT_FOUND (0x80bb0001), component VirtualBoxWrap, interface IVirtualBox, callee IUnknown
+vboxmanage.exe: error: Context: "FindMachine(Bstr(VMName).raw(), machine.asOutParam())" at line 231 of file VBoxManageMisc.cpp
+vboxmanage.exe: error: Could not find a registered machine named ''
+vboxmanage.exe: error: Details: code VBOX_E_OBJECT_NOT_FOUND (0x80bb0001), component VirtualBoxWrap, interface IVirtualBox, callee IUnknown
+vboxmanage.exe: error: Context: "FindMachine(Bstr(VMName).raw(), machine.asOutParam())" at line 231 of file VBoxManageMisc.cpp
+vboxmanage.exe: error: Could not find a registered machine named 'new1'
+vboxmanage.exe: error: Details: code VBOX_E_OBJECT_NOT_FOUND (0x80bb0001), component VirtualBoxWrap, interface IVirtualBox, callee IUnknown
+vboxmanage.exe: error: Context: "FindMachine(Bstr(a->argv[0]).raw(), machine.asOutParam())" at line 366 of file VBoxManageControlVM.cpp
+vboxmanage.exe: error: Could not find a registered machine named 'new1'
+vboxmanage.exe: error: Details: code VBOX_E_OBJECT_NOT_FOUND (0x80bb0001), component VirtualBoxWrap, interface IVirtualBox, callee IUnknown
+vboxmanage.exe: error: Context: "FindMachine(Bstr(a->argv[0]).raw(), machine.asOutParam())" at line 366 of file VBoxManageControlVM.cpp
+vboxmanage.exe: error: Could not find a registered machine named 'new1'
+vboxmanage.exe: error: Details: code VBOX_E_OBJECT_NOT_FOUND (0x80bb0001), component VirtualBoxWrap, interface IVirtualBox, callee IUnknown
+vboxmanage.exe: error: Context: "FindMachine(Bstr(VMName).raw(), machine.asOutParam())" at line 231 of file VBoxManageMisc.cpp
+vboxmanage.exe: error: Could not find a registered machine named 'new1'
+vboxmanage.exe: error: Details: code VBOX_E_OBJECT_NOT_FOUND (0x80bb0001), component VirtualBoxWrap, interface IVirtualBox, callee IUnknown
+vboxmanage.exe: error: Context: "FindMachine(Bstr(VMName).raw(), machine.asOutParam())" at line 231 of file VBoxManageMisc.cpp
+vboxmanage.exe: error: Could not find a registered machine named 'new2'
+vboxmanage.exe: error: Details: code VBOX_E_OBJECT_NOT_FOUND (0x80bb0001), component VirtualBoxWrap, interface IVirtualBox, callee IUnknown
+vboxmanage.exe: error: Context: "FindMachine(Bstr(a->argv[0]).raw(), machine.asOutParam())" at line 366 of file VBoxManageControlVM.cpp
+vboxmanage.exe: error: Could not find a registered machine named 'new1'
+vboxmanage.exe: error: Details: code VBOX_E_OBJECT_NOT_FOUND (0x80bb0001), component VirtualBoxWrap, interface IVirtualBox, callee IUnknown
+vboxmanage.exe: error: Context: "FindMachine(Bstr(a->argv[0]).raw(), machine.asOutParam())" at line 366 of file VBoxManageControlVM.cpp
+vboxmanage.exe: error: Could not find a registered machine named 'new1'
+vboxmanage.exe: error: Details: code VBOX_E_OBJECT_NOT_FOUND (0x80bb0001), component VirtualBoxWrap, interface IVirtualBox, callee IUnknown
+vboxmanage.exe: error: Context: "FindMachine(Bstr(a->argv[0]).raw(), machine.asOutParam())" at line 366 of file VBoxManageControlVM.cpp
+vboxmanage.exe: error: Machine 'new1' is not currently running.
+vboxmanage.exe: error: Machine 'new1' is not currently running.
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+vboxmanage.exe: error: Machine 'new2' is not currently running.
+vboxmanage.exe: error: Machine 'new2' is not currently running.
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+vboxmanage.exe: error: Machine 'new3' is not currently running.
+vboxmanage.exe: error: Machine 'new3' is not currently running.
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+vboxmanage.exe: error: Invalid machine state: Starting (must be Running, Paused or Stuck)
+vboxmanage.exe: error: Details: code VBOX_E_INVALID_VM_STATE (0x80bb0002), component ConsoleWrap, interface IConsole, callee IUnknown
+vboxmanage.exe: error: Context: "PowerDown(progress.asOutParam())" at line 604 of file VBoxManageControlVM.cpp
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+vboxmanage.exe: error: Cannot unregister the machine 'new1' while it is locked
+vboxmanage.exe: error: Details: code VBOX_E_INVALID_OBJECT_STATE (0x80bb0007), component MachineWrap, interface IMachine, callee IUnknown
+vboxmanage.exe: error: Context: "Unregister(fDeleteAll ? CleanupMode_DetachAllReturnHardDisksAndVMRemovable :CleanupMode_DetachAllReturnHardDisksOnly, ComSafeArrayAsOutParam(aMedia))" at line 236 of file VBoxManageMisc.cpp
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+vboxmanage.exe: error: Could not find a registered machine named 'new2'
+vboxmanage.exe: error: Details: code VBOX_E_OBJECT_NOT_FOUND (0x80bb0001), component VirtualBoxWrap, interface IVirtualBox, callee IUnknown
+vboxmanage.exe: error: Context: "FindMachine(Bstr(a->argv[0]).raw(), machine.asOutParam())" at line 366 of file VBoxManageControlVM.cpp
+vboxmanage.exe: error: Could not find a registered machine named 'new2'
+vboxmanage.exe: error: Details: code VBOX_E_OBJECT_NOT_FOUND (0x80bb0001), component VirtualBoxWrap, interface IVirtualBox, callee IUnknown
+vboxmanage.exe: error: Context: "FindMachine(Bstr(a->argv[0]).raw(), machine.asOutParam())" at line 366 of file VBoxManageControlVM.cpp
+vboxmanage.exe: error: Could not find a registered machine named 'new2'
+vboxmanage.exe: error: Details: code VBOX_E_OBJECT_NOT_FOUND (0x80bb0001), component VirtualBoxWrap, interface IVirtualBox, callee IUnknown
+vboxmanage.exe: error: Context: "FindMachine(Bstr(VMName).raw(), machine.asOutParam())" at line 231 of file VBoxManageMisc.cpp
+vboxmanage.exe: error: Could not find a registered machine named 'new2'
+vboxmanage.exe: error: Details: code VBOX_E_OBJECT_NOT_FOUND (0x80bb0001), component VirtualBoxWrap, interface IVirtualBox, callee IUnknown
+vboxmanage.exe: error: Context: "FindMachine(Bstr(VMName).raw(), machine.asOutParam())" at line 231 of file VBoxManageMisc.cpp
+vboxmanage.exe: error: Could not find a registered machine named 'new3'
+vboxmanage.exe: error: Details: code VBOX_E_OBJECT_NOT_FOUND (0x80bb0001), component VirtualBoxWrap, interface IVirtualBox, callee IUnknown
+vboxmanage.exe: error: Context: "FindMachine(Bstr(a->argv[0]).raw(), machine.asOutParam())" at line 366 of file VBoxManageControlVM.cpp
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+vboxmanage.exe: error: Could not find a registered machine named 'new2'
+vboxmanage.exe: error: Details: code VBOX_E_OBJECT_NOT_FOUND (0x80bb0001), component VirtualBoxWrap, interface IVirtualBox, callee IUnknown
+vboxmanage.exe: error: Context: "FindMachine(Bstr(a->argv[0]).raw(), machine.asOutParam())" at line 366 of file VBoxManageControlVM.cpp
+vboxmanage.exe: error: Could not find a registered machine named 'new2'
+vboxmanage.exe: error: Details: code VBOX_E_OBJECT_NOT_FOUND (0x80bb0001), component VirtualBoxWrap, interface IVirtualBox, callee IUnknown
+vboxmanage.exe: error: Context: "FindMachine(Bstr(a->argv[0]).raw(), machine.asOutParam())" at line 366 of file VBoxManageControlVM.cpp
+vboxmanage.exe: error: Could not find a registered machine named 'new2'
+vboxmanage.exe: error: Details: code VBOX_E_OBJECT_NOT_FOUND (0x80bb0001), component VirtualBoxWrap, interface IVirtualBox, callee IUnknown
+vboxmanage.exe: error: Context: "FindMachine(Bstr(VMName).raw(), machine.asOutParam())" at line 231 of file VBoxManageMisc.cpp
+vboxmanage.exe: error: Could not find a registered machine named 'new2'
+vboxmanage.exe: error: Details: code VBOX_E_OBJECT_NOT_FOUND (0x80bb0001), component VirtualBoxWrap, interface IVirtualBox, callee IUnknown
+vboxmanage.exe: error: Context: "FindMachine(Bstr(VMName).raw(), machine.asOutParam())" at line 231 of file VBoxManageMisc.cpp
+vboxmanage.exe: error: Could not find a registered machine named 'new3'
+vboxmanage.exe: error: Details: code VBOX_E_OBJECT_NOT_FOUND (0x80bb0001), component VirtualBoxWrap, interface IVirtualBox, callee IUnknown
+vboxmanage.exe: error: Context: "FindMachine(Bstr(a->argv[0]).raw(), machine.asOutParam())" at line 366 of file VBoxManageControlVM.cpp
+vboxmanage.exe: error: Could not find a registered machine named 'new3'
+vboxmanage.exe: error: Details: code VBOX_E_OBJECT_NOT_FOUND (0x80bb0001), component VirtualBoxWrap, interface IVirtualBox, callee IUnknown
+vboxmanage.exe: error: Context: "FindMachine(Bstr(a->argv[0]).raw(), machine.asOutParam())" at line 366 of file VBoxManageControlVM.cpp
+vboxmanage.exe: error: Could not find a registered machine named 'new3'
+vboxmanage.exe: error: Details: code VBOX_E_OBJECT_NOT_FOUND (0x80bb0001), component VirtualBoxWrap, interface IVirtualBox, callee IUnknown
+vboxmanage.exe: error: Context: "FindMachine(Bstr(VMName).raw(), machine.asOutParam())" at line 231 of file VBoxManageMisc.cpp
+vboxmanage.exe: error: Could not find a registered machine named 'new3'
+vboxmanage.exe: error: Details: code VBOX_E_OBJECT_NOT_FOUND (0x80bb0001), component VirtualBoxWrap, interface IVirtualBox, callee IUnknown
+vboxmanage.exe: error: Context: "FindMachine(Bstr(VMName).raw(), machine.asOutParam())" at line 231 of file VBoxManageMisc.cpp
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+vboxmanage.exe: error: Could not find a registered machine named 'new2'
+vboxmanage.exe: error: Details: code VBOX_E_OBJECT_NOT_FOUND (0x80bb0001), component VirtualBoxWrap, interface IVirtualBox, callee IUnknown
+vboxmanage.exe: error: Context: "FindMachine(Bstr(a->argv[0]).raw(), machine.asOutParam())" at line 366 of file VBoxManageControlVM.cpp
+vboxmanage.exe: error: Could not find a registered machine named 'new2'
+vboxmanage.exe: error: Details: code VBOX_E_OBJECT_NOT_FOUND (0x80bb0001), component VirtualBoxWrap, interface IVirtualBox, callee IUnknown
+vboxmanage.exe: error: Context: "FindMachine(Bstr(a->argv[0]).raw(), machine.asOutParam())" at line 366 of file VBoxManageControlVM.cpp
+vboxmanage.exe: error: Could not find a registered machine named 'new2'
+vboxmanage.exe: error: Details: code VBOX_E_OBJECT_NOT_FOUND (0x80bb0001), component VirtualBoxWrap, interface IVirtualBox, callee IUnknown
+vboxmanage.exe: error: Context: "FindMachine(Bstr(VMName).raw(), machine.asOutParam())" at line 231 of file VBoxManageMisc.cpp
+vboxmanage.exe: error: Could not find a registered machine named 'new1'
+vboxmanage.exe: error: Details: code VBOX_E_OBJECT_NOT_FOUND (0x80bb0001), component VirtualBoxWrap, interface IVirtualBox, callee IUnknown
+vboxmanage.exe: error: Context: "FindMachine(Bstr(a->argv[0]).raw(), machine.asOutParam())" at line 366 of file VBoxManageControlVM.cpp
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+vboxmanage.exe: error: Could not find a registered machine named 'new1'
+vboxmanage.exe: error: Details: code VBOX_E_OBJECT_NOT_FOUND (0x80bb0001), component VirtualBoxWrap, interface IVirtualBox, callee IUnknown
+vboxmanage.exe: error: Context: "FindMachine(Bstr(a->argv[0]).raw(), machine.asOutParam())" at line 366 of file VBoxManageControlVM.cpp
+vboxmanage.exe: error: Could not find a registered machine named 'new1'
+vboxmanage.exe: error: Details: code VBOX_E_OBJECT_NOT_FOUND (0x80bb0001), component VirtualBoxWrap, interface IVirtualBox, callee IUnknown
+vboxmanage.exe: error: Context: "FindMachine(Bstr(VMName).raw(), machine.asOutParam())" at line 231 of file VBoxManageMisc.cpp
+vboxmanage.exe: error: Could not find a registered machine named 'new1'
+vboxmanage.exe: error: Details: code VBOX_E_OBJECT_NOT_FOUND (0x80bb0001), component VirtualBoxWrap, interface IVirtualBox, callee IUnknown
+vboxmanage.exe: error: Context: "FindMachine(Bstr(VMName).raw(), machine.asOutParam())" at line 231 of file VBoxManageMisc.cpp
+vboxmanage.exe: error: Could not find a registered machine named 'new2'
+vboxmanage.exe: error: Details: code VBOX_E_OBJECT_NOT_FOUND (0x80bb0001), component VirtualBoxWrap, interface IVirtualBox, callee IUnknown
+vboxmanage.exe: error: Context: "FindMachine(Bstr(a->argv[0]).raw(), machine.asOutParam())" at line 366 of file VBoxManageControlVM.cpp
+vboxmanage.exe: error: Could not find a registered machine named 'new2'
+vboxmanage.exe: error: Details: code VBOX_E_OBJECT_NOT_FOUND (0x80bb0001), component VirtualBoxWrap, interface IVirtualBox, callee IUnknown
+vboxmanage.exe: error: Context: "FindMachine(Bstr(a->argv[0]).raw(), machine.asOutParam())" at line 366 of file VBoxManageControlVM.cpp
+vboxmanage.exe: error: Could not find a registered machine named 'new2'
+vboxmanage.exe: error: Details: code VBOX_E_OBJECT_NOT_FOUND (0x80bb0001), component VirtualBoxWrap, interface IVirtualBox, callee IUnknown
+vboxmanage.exe: error: Context: "FindMachine(Bstr(VMName).raw(), machine.asOutParam())" at line 231 of file VBoxManageMisc.cpp
+vboxmanage.exe: error: Could not find a registered machine named 'new2'
+vboxmanage.exe: error: Details: code VBOX_E_OBJECT_NOT_FOUND (0x80bb0001), component VirtualBoxWrap, interface IVirtualBox, callee IUnknown
+vboxmanage.exe: error: Context: "FindMachine(Bstr(VMName).raw(), machine.asOutParam())" at line 231 of file VBoxManageMisc.cpp
+vboxmanage.exe: error: Could not find a registered machine named 'new3'
+vboxmanage.exe: error: Details: code VBOX_E_OBJECT_NOT_FOUND (0x80bb0001), component VirtualBoxWrap, interface IVirtualBox, callee IUnknown
+vboxmanage.exe: error: Context: "FindMachine(Bstr(a->argv[0]).raw(), machine.asOutParam())" at line 366 of file VBoxManageControlVM.cpp
+vboxmanage.exe: error: Could not find a registered machine named 'new3'
+vboxmanage.exe: error: Details: code VBOX_E_OBJECT_NOT_FOUND (0x80bb0001), component VirtualBoxWrap, interface IVirtualBox, callee IUnknown
+vboxmanage.exe: error: Context: "FindMachine(Bstr(a->argv[0]).raw(), machine.asOutParam())" at line 366 of file VBoxManageControlVM.cpp
+vboxmanage.exe: error: Could not find a registered machine named 'new3'
+vboxmanage.exe: error: Details: code VBOX_E_OBJECT_NOT_FOUND (0x80bb0001), component VirtualBoxWrap, interface IVirtualBox, callee IUnknown
+vboxmanage.exe: error: Context: "FindMachine(Bstr(VMName).raw(), machine.asOutParam())" at line 231 of file VBoxManageMisc.cpp
+vboxmanage.exe: error: Could not find a registered machine named 'new3'
+vboxmanage.exe: error: Details: code VBOX_E_OBJECT_NOT_FOUND (0x80bb0001), component VirtualBoxWrap, interface IVirtualBox, callee IUnknown
+vboxmanage.exe: error: Context: "FindMachine(Bstr(VMName).raw(), machine.asOutParam())" at line 231 of file VBoxManageMisc.cpp
+vboxmanage.exe: error: Could not find a registered machine named 'new2'
+vboxmanage.exe: error: Details: code VBOX_E_OBJECT_NOT_FOUND (0x80bb0001), component VirtualBoxWrap, interface IVirtualBox, callee IUnknown
+vboxmanage.exe: error: Context: "FindMachine(Bstr(VMName).raw(), machine.asOutParam())" at line 231 of file VBoxManageMisc.cpp
+vboxmanage.exe: error: Could not find a registered machine named 'new3'
+vboxmanage.exe: error: Details: code VBOX_E_OBJECT_NOT_FOUND (0x80bb0001), component VirtualBoxWrap, interface IVirtualBox, callee IUnknown
+vboxmanage.exe: error: Context: "FindMachine(Bstr(a->argv[0]).raw(), machine.asOutParam())" at line 366 of file VBoxManageControlVM.cpp
+vboxmanage.exe: error: Could not find a registered machine named 'new3'
+vboxmanage.exe: error: Details: code VBOX_E_OBJECT_NOT_FOUND (0x80bb0001), component VirtualBoxWrap, interface IVirtualBox, callee IUnknown
+vboxmanage.exe: error: Context: "FindMachine(Bstr(a->argv[0]).raw(), machine.asOutParam())" at line 366 of file VBoxManageControlVM.cpp
+vboxmanage.exe: error: Could not find a registered machine named 'new3'
+vboxmanage.exe: error: Details: code VBOX_E_OBJECT_NOT_FOUND (0x80bb0001), component VirtualBoxWrap, interface IVirtualBox, callee IUnknown
+vboxmanage.exe: error: Context: "FindMachine(Bstr(VMName).raw(), machine.asOutParam())" at line 231 of file VBoxManageMisc.cpp
+vboxmanage.exe: error: Could not find a registered machine named 'new3'
+vboxmanage.exe: error: Details: code VBOX_E_OBJECT_NOT_FOUND (0x80bb0001), component VirtualBoxWrap, interface IVirtualBox, callee IUnknown
+vboxmanage.exe: error: Context: "FindMachine(Bstr(VMName).raw(), machine.asOutParam())" at line 231 of file VBoxManageMisc.cpp
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+vboxmanage.exe: error: Could not find a registered machine named 'new3'
+vboxmanage.exe: error: Details: code VBOX_E_OBJECT_NOT_FOUND (0x80bb0001), component VirtualBoxWrap, interface IVirtualBox, callee IUnknown
+vboxmanage.exe: error: Context: "FindMachine(Bstr(a->argv[0]).raw(), machine.asOutParam())" at line 366 of file VBoxManageControlVM.cpp
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+vboxmanage.exe: error: Could not find a registered machine named 'new2'
+vboxmanage.exe: error: Details: code VBOX_E_OBJECT_NOT_FOUND (0x80bb0001), component VirtualBoxWrap, interface IVirtualBox, callee IUnknown
+vboxmanage.exe: error: Context: "FindMachine(Bstr(a->argv[0]).raw(), machine.asOutParam())" at line 366 of file VBoxManageControlVM.cpp
+vboxmanage.exe: error: Could not find a registered machine named 'new2'
+vboxmanage.exe: error: Details: code VBOX_E_OBJECT_NOT_FOUND (0x80bb0001), component VirtualBoxWrap, interface IVirtualBox, callee IUnknown
+vboxmanage.exe: error: Context: "FindMachine(Bstr(a->argv[0]).raw(), machine.asOutParam())" at line 366 of file VBoxManageControlVM.cpp
+vboxmanage.exe: error: Could not find a registered machine named 'new2'
+vboxmanage.exe: error: Details: code VBOX_E_OBJECT_NOT_FOUND (0x80bb0001), component VirtualBoxWrap, interface IVirtualBox, callee IUnknown
+vboxmanage.exe: error: Context: "FindMachine(Bstr(VMName).raw(), machine.asOutParam())" at line 231 of file VBoxManageMisc.cpp
+vboxmanage.exe: error: Could not find a registered machine named 'new2'
+vboxmanage.exe: error: Details: code VBOX_E_OBJECT_NOT_FOUND (0x80bb0001), component VirtualBoxWrap, interface IVirtualBox, callee IUnknown
+vboxmanage.exe: error: Context: "FindMachine(Bstr(VMName).raw(), machine.asOutParam())" at line 231 of file VBoxManageMisc.cpp
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+vboxmanage.exe: error: Machine 'new1' is not currently running.
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+vboxmanage.exe: error: Invalid machine state: PoweredOff (must be Running, Paused or Stuck)
+vboxmanage.exe: error: Details: code VBOX_E_INVALID_VM_STATE (0x80bb0002), component ConsoleWrap, interface IConsole, callee IUnknown
+vboxmanage.exe: error: Context: "PowerDown(progress.asOutParam())" at line 604 of file VBoxManageControlVM.cpp
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+vboxmanage.exe: error: Could not find a registered machine named 'new1'
+vboxmanage.exe: error: Details: code VBOX_E_OBJECT_NOT_FOUND (0x80bb0001), component VirtualBoxWrap, interface IVirtualBox, callee IUnknown
+vboxmanage.exe: error: Context: "FindMachine(Bstr(VMName).raw(), machine.asOutParam())" at line 231 of file VBoxManageMisc.cpp
+vboxmanage.exe: error: Invalid machine state: Starting (must be Running, Paused or Stuck)
+vboxmanage.exe: error: Details: code VBOX_E_INVALID_VM_STATE (0x80bb0002), component ConsoleWrap, interface IConsole, callee IUnknown
+vboxmanage.exe: error: Context: "PowerDown(progress.asOutParam())" at line 604 of file VBoxManageControlVM.cpp
+vboxmanage.exe: error: Cannot unregister the machine 'new2' while it is locked
+vboxmanage.exe: error: Details: code VBOX_E_INVALID_OBJECT_STATE (0x80bb0007), component MachineWrap, interface IMachine, callee IUnknown
+vboxmanage.exe: error: Context: "Unregister(fDeleteAll ? CleanupMode_DetachAllReturnHardDisksAndVMRemovable :CleanupMode_DetachAllReturnHardDisksOnly, ComSafeArrayAsOutParam(aMedia))" at line 236 of file VBoxManageMisc.cpp
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+vboxmanage.exe: error: Cannot unregister the machine 'new2' while it is locked
+vboxmanage.exe: error: Details: code VBOX_E_INVALID_OBJECT_STATE (0x80bb0007), component MachineWrap, interface IMachine, callee IUnknown
+vboxmanage.exe: error: Context: "Unregister(fDeleteAll ? CleanupMode_DetachAllReturnHardDisksAndVMRemovable :CleanupMode_DetachAllReturnHardDisksOnly, ComSafeArrayAsOutParam(aMedia))" at line 236 of file VBoxManageMisc.cpp
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+vboxmanage.exe: error: Could not find a registered machine named 'new3'
+vboxmanage.exe: error: Details: code VBOX_E_OBJECT_NOT_FOUND (0x80bb0001), component VirtualBoxWrap, interface IVirtualBox, callee IUnknown
+vboxmanage.exe: error: Context: "FindMachine(Bstr(a->argv[0]).raw(), machine.asOutParam())" at line 366 of file VBoxManageControlVM.cpp
+vboxmanage.exe: error: Could not find a registered machine named 'new3'
+vboxmanage.exe: error: Details: code VBOX_E_OBJECT_NOT_FOUND (0x80bb0001), component VirtualBoxWrap, interface IVirtualBox, callee IUnknown
+vboxmanage.exe: error: Context: "FindMachine(Bstr(a->argv[0]).raw(), machine.asOutParam())" at line 366 of file VBoxManageControlVM.cpp
+vboxmanage.exe: error: Could not find a registered machine named 'new3'
+vboxmanage.exe: error: Details: code VBOX_E_OBJECT_NOT_FOUND (0x80bb0001), component VirtualBoxWrap, interface IVirtualBox, callee IUnknown
+vboxmanage.exe: error: Context: "FindMachine(Bstr(VMName).raw(), machine.asOutParam())" at line 231 of file VBoxManageMisc.cpp
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+vboxmanage.exe: error: Could not find a registered machine named 'new1'
+vboxmanage.exe: error: Details: code VBOX_E_OBJECT_NOT_FOUND (0x80bb0001), component VirtualBoxWrap, interface IVirtualBox, callee IUnknown
+vboxmanage.exe: error: Context: "FindMachine(Bstr(a->argv[0]).raw(), machine.asOutParam())" at line 366 of file VBoxManageControlVM.cpp
+vboxmanage.exe: error: Could not find a registered machine named 'new1'
+vboxmanage.exe: error: Details: code VBOX_E_OBJECT_NOT_FOUND (0x80bb0001), component VirtualBoxWrap, interface IVirtualBox, callee IUnknown
+vboxmanage.exe: error: Context: "FindMachine(Bstr(a->argv[0]).raw(), machine.asOutParam())" at line 366 of file VBoxManageControlVM.cpp
+vboxmanage.exe: error: Could not find a registered machine named 'new1'
+vboxmanage.exe: error: Details: code VBOX_E_OBJECT_NOT_FOUND (0x80bb0001), component VirtualBoxWrap, interface IVirtualBox, callee IUnknown
+vboxmanage.exe: error: Context: "FindMachine(Bstr(VMName).raw(), machine.asOutParam())" at line 231 of file VBoxManageMisc.cpp
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+vboxmanage.exe: error: Invalid machine state: PoweredOff (must be Running, Paused or Stuck)
+vboxmanage.exe: error: Details: code VBOX_E_INVALID_VM_STATE (0x80bb0002), component ConsoleWrap, interface IConsole, callee IUnknown
+vboxmanage.exe: error: Context: "PowerDown(progress.asOutParam())" at line 604 of file VBoxManageControlVM.cpp
+vboxmanage.exe: error: Invalid machine state: PoweredOff (must be Running, Paused or Stuck)
+vboxmanage.exe: error: Details: code VBOX_E_INVALID_VM_STATE (0x80bb0002), component ConsoleWrap, interface IConsole, callee IUnknown
+vboxmanage.exe: error: Context: "PowerDown(progress.asOutParam())" at line 604 of file VBoxManageControlVM.cpp
+vboxmanage.exe: error: Invalid machine state: Starting (must be Running, Paused or Stuck)
+vboxmanage.exe: error: Details: code VBOX_E_INVALID_VM_STATE (0x80bb0002), component ConsoleWrap, interface IConsole, callee IUnknown
+vboxmanage.exe: error: Context: "PowerDown(progress.asOutParam())" at line 604 of file VBoxManageControlVM.cpp
+vboxmanage.exe: error: Cannot unregister the machine 'testVMbciaa' while it is locked
+vboxmanage.exe: error: Details: code VBOX_E_INVALID_OBJECT_STATE (0x80bb0007), component MachineWrap, interface IMachine, callee IUnknown
+vboxmanage.exe: error: Context: "Unregister(fDeleteAll ? CleanupMode_DetachAllReturnHardDisksAndVMRemovable :CleanupMode_DetachAllReturnHardDisksOnly, ComSafeArrayAsOutParam(aMedia))" at line 236 of file VBoxManageMisc.cpp
+vboxmanage.exe: error: Cannot unregister the machine 'testVMbciaa' while it is locked
+vboxmanage.exe: error: Details: code VBOX_E_INVALID_OBJECT_STATE (0x80bb0007), component MachineWrap, interface IMachine, callee IUnknown
+vboxmanage.exe: error: Context: "Unregister(fDeleteAll ? CleanupMode_DetachAllReturnHardDisksAndVMRemovable :CleanupMode_DetachAllReturnHardDisksOnly, ComSafeArrayAsOutParam(aMedia))" at line 236 of file VBoxManageMisc.cpp
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+vboxmanage.exe: error: An unexpected process (PID=0x000052F8) has tried to lock the machine 'testVMbabjh', while only the process started by LaunchVMProcess (PID=0x000066B0) is allowed
+vboxmanage.exe: error: Details: code E_ACCESSDENIED (0x80070005), component MachineWrap, interface IMachine, callee IUnknown
+vboxmanage.exe: error: Context: "LockMachine(a->session, LockType_Shared)" at line 371 of file VBoxManageControlVM.cpp
+vboxmanage.exe: error: Could not find a registered machine named 'testVMbabjh'
+vboxmanage.exe: error: Details: code VBOX_E_OBJECT_NOT_FOUND (0x80bb0001), component VirtualBoxWrap, interface IVirtualBox, callee IUnknown
+vboxmanage.exe: error: Context: "FindMachine(Bstr(a->argv[0]).raw(), machine.asOutParam())" at line 366 of file VBoxManageControlVM.cpp
+vboxmanage.exe: error: Could not find a registered machine named 'testVMbabjh'
+vboxmanage.exe: error: Details: code VBOX_E_OBJECT_NOT_FOUND (0x80bb0001), component VirtualBoxWrap, interface IVirtualBox, callee IUnknown
+vboxmanage.exe: error: Context: "FindMachine(Bstr(VMName).raw(), machine.asOutParam())" at line 231 of file VBoxManageMisc.cpp
+vboxmanage.exe: error: Machine 'testVMbabjh' is not currently running.
+vboxmanage.exe: error: Machine 'testVMbabjh' is not currently running.
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+vboxmanage.exe: error: Machine 'new4' is not currently running.
+vboxmanage.exe: error: Machine 'new4' is not currently running.
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+vboxmanage.exe: error: Machine 'test02' is not currently running.
+vboxmanage.exe: error: Could not find a registered machine named 'test02'
+vboxmanage.exe: error: Details: code VBOX_E_OBJECT_NOT_FOUND (0x80bb0001), component VirtualBoxWrap, interface IVirtualBox, callee IUnknown
+vboxmanage.exe: error: Context: "FindMachine(Bstr(a->argv[0]).raw(), machine.asOutParam())" at line 366 of file VBoxManageControlVM.cpp
+vboxmanage.exe: error: Could not find a registered machine named 'test02'
+vboxmanage.exe: error: Details: code VBOX_E_OBJECT_NOT_FOUND (0x80bb0001), component VirtualBoxWrap, interface IVirtualBox, callee IUnknown
+vboxmanage.exe: error: Context: "FindMachine(Bstr(VMName).raw(), machine.asOutParam())" at line 231 of file VBoxManageMisc.cpp
+vboxmanage.exe: error: Could not find a registered machine named 'test02'
+vboxmanage.exe: error: Details: code VBOX_E_OBJECT_NOT_FOUND (0x80bb0001), component VirtualBoxWrap, interface IVirtualBox, callee IUnknown
+vboxmanage.exe: error: Context: "FindMachine(Bstr(VMName).raw(), machine.asOutParam())" at line 231 of file VBoxManageMisc.cpp
+vboxmanage.exe: error: Could not find a registered machine named 'test03'
+vboxmanage.exe: error: Details: code VBOX_E_OBJECT_NOT_FOUND (0x80bb0001), component VirtualBoxWrap, interface IVirtualBox, callee IUnknown
+vboxmanage.exe: error: Context: "FindMachine(Bstr(a->argv[0]).raw(), machine.asOutParam())" at line 366 of file VBoxManageControlVM.cpp
+vboxmanage.exe: error: Could not find a registered machine named 'test03'
+vboxmanage.exe: error: Details: code VBOX_E_OBJECT_NOT_FOUND (0x80bb0001), component VirtualBoxWrap, interface IVirtualBox, callee IUnknown
+vboxmanage.exe: error: Context: "FindMachine(Bstr(a->argv[0]).raw(), machine.asOutParam())" at line 366 of file VBoxManageControlVM.cpp
+vboxmanage.exe: error: Could not find a registered machine named 'test03'
+vboxmanage.exe: error: Details: code VBOX_E_OBJECT_NOT_FOUND (0x80bb0001), component VirtualBoxWrap, interface IVirtualBox, callee IUnknown
+vboxmanage.exe: error: Context: "FindMachine(Bstr(VMName).raw(), machine.asOutParam())" at line 231 of file VBoxManageMisc.cpp
+vboxmanage.exe: error: Could not find a registered machine named 'test03'
+vboxmanage.exe: error: Details: code VBOX_E_OBJECT_NOT_FOUND (0x80bb0001), component VirtualBoxWrap, interface IVirtualBox, callee IUnknown
+vboxmanage.exe: error: Context: "FindMachine(Bstr(VMName).raw(), machine.asOutParam())" at line 231 of file VBoxManageMisc.cpp
+vboxmanage.exe: error: Machine 'test01' is not currently running.
+vboxmanage.exe: error: Machine 'test01' is not currently running.
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+vboxmanage.exe: error: Could not find a registered machine named 'test01'
+vboxmanage.exe: error: Details: code VBOX_E_OBJECT_NOT_FOUND (0x80bb0001), component VirtualBoxWrap, interface IVirtualBox, callee IUnknown
+vboxmanage.exe: error: Context: "FindMachine(Bstr(a->argv[0]).raw(), machine.asOutParam())" at line 366 of file VBoxManageControlVM.cpp
+vboxmanage.exe: error: Could not find a registered machine named 'test01'
+vboxmanage.exe: error: Details: code VBOX_E_OBJECT_NOT_FOUND (0x80bb0001), component VirtualBoxWrap, interface IVirtualBox, callee IUnknown
+vboxmanage.exe: error: Context: "FindMachine(Bstr(a->argv[0]).raw(), machine.asOutParam())" at line 366 of file VBoxManageControlVM.cpp
+vboxmanage.exe: error: Could not find a registered machine named 'test01'
+vboxmanage.exe: error: Details: code VBOX_E_OBJECT_NOT_FOUND (0x80bb0001), component VirtualBoxWrap, interface IVirtualBox, callee IUnknown
+vboxmanage.exe: error: Context: "FindMachine(Bstr(VMName).raw(), machine.asOutParam())" at line 231 of file VBoxManageMisc.cpp
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+vboxmanage.exe: error: Could not find a registered machine named 'test01'
+vboxmanage.exe: error: Details: code VBOX_E_OBJECT_NOT_FOUND (0x80bb0001), component VirtualBoxWrap, interface IVirtualBox, callee IUnknown
+vboxmanage.exe: error: Context: "FindMachine(Bstr(a->argv[0]).raw(), machine.asOutParam())" at line 366 of file VBoxManageControlVM.cpp
+vboxmanage.exe: error: Could not find a registered machine named 'test01'
+vboxmanage.exe: error: Details: code VBOX_E_OBJECT_NOT_FOUND (0x80bb0001), component VirtualBoxWrap, interface IVirtualBox, callee IUnknown
+vboxmanage.exe: error: Context: "FindMachine(Bstr(a->argv[0]).raw(), machine.asOutParam())" at line 366 of file VBoxManageControlVM.cpp
+vboxmanage.exe: error: Could not find a registered machine named 'test01'
+vboxmanage.exe: error: Details: code VBOX_E_OBJECT_NOT_FOUND (0x80bb0001), component VirtualBoxWrap, interface IVirtualBox, callee IUnknown
+vboxmanage.exe: error: Context: "FindMachine(Bstr(VMName).raw(), machine.asOutParam())" at line 231 of file VBoxManageMisc.cpp
+vboxmanage.exe: error: Could not find a registered machine named 'test01'
+vboxmanage.exe: error: Details: code VBOX_E_OBJECT_NOT_FOUND (0x80bb0001), component VirtualBoxWrap, interface IVirtualBox, callee IUnknown
+vboxmanage.exe: error: Context: "FindMachine(Bstr(VMName).raw(), machine.asOutParam())" at line 231 of file VBoxManageMisc.cpp
+vboxmanage.exe: error: Could not find a registered machine named 'test02'
+vboxmanage.exe: error: Details: code VBOX_E_OBJECT_NOT_FOUND (0x80bb0001), component VirtualBoxWrap, interface IVirtualBox, callee IUnknown
+vboxmanage.exe: error: Context: "FindMachine(Bstr(a->argv[0]).raw(), machine.asOutParam())" at line 366 of file VBoxManageControlVM.cpp
+vboxmanage.exe: error: Could not find a registered machine named 'test02'
+vboxmanage.exe: error: Details: code VBOX_E_OBJECT_NOT_FOUND (0x80bb0001), component VirtualBoxWrap, interface IVirtualBox, callee IUnknown
+vboxmanage.exe: error: Context: "FindMachine(Bstr(a->argv[0]).raw(), machine.asOutParam())" at line 366 of file VBoxManageControlVM.cpp
+vboxmanage.exe: error: Could not find a registered machine named 'test02'
+vboxmanage.exe: error: Details: code VBOX_E_OBJECT_NOT_FOUND (0x80bb0001), component VirtualBoxWrap, interface IVirtualBox, callee IUnknown
+vboxmanage.exe: error: Context: "FindMachine(Bstr(VMName).raw(), machine.asOutParam())" at line 231 of file VBoxManageMisc.cpp
+vboxmanage.exe: error: Could not find a registered machine named 'test02'
+vboxmanage.exe: error: Details: code VBOX_E_OBJECT_NOT_FOUND (0x80bb0001), component VirtualBoxWrap, interface IVirtualBox, callee IUnknown
+vboxmanage.exe: error: Context: "FindMachine(Bstr(VMName).raw(), machine.asOutParam())" at line 231 of file VBoxManageMisc.cpp
+vboxmanage.exe: error: Could not find a registered machine named 'test01'
+vboxmanage.exe: error: Details: code VBOX_E_OBJECT_NOT_FOUND (0x80bb0001), component VirtualBoxWrap, interface IVirtualBox, callee IUnknown
+vboxmanage.exe: error: Context: "FindMachine(Bstr(a->argv[0]).raw(), machine.asOutParam())" at line 366 of file VBoxManageControlVM.cpp
+vboxmanage.exe: error: Could not find a registered machine named 'test01'
+vboxmanage.exe: error: Details: code VBOX_E_OBJECT_NOT_FOUND (0x80bb0001), component VirtualBoxWrap, interface IVirtualBox, callee IUnknown
+vboxmanage.exe: error: Context: "FindMachine(Bstr(a->argv[0]).raw(), machine.asOutParam())" at line 366 of file VBoxManageControlVM.cpp
+vboxmanage.exe: error: Could not find a registered machine named 'test01'
+vboxmanage.exe: error: Details: code VBOX_E_OBJECT_NOT_FOUND (0x80bb0001), component VirtualBoxWrap, interface IVirtualBox, callee IUnknown
+vboxmanage.exe: error: Context: "FindMachine(Bstr(VMName).raw(), machine.asOutParam())" at line 231 of file VBoxManageMisc.cpp
+vboxmanage.exe: error: Could not find a registered machine named 'test01'
+vboxmanage.exe: error: Details: code VBOX_E_OBJECT_NOT_FOUND (0x80bb0001), component VirtualBoxWrap, interface IVirtualBox, callee IUnknown
+vboxmanage.exe: error: Context: "FindMachine(Bstr(VMName).raw(), machine.asOutParam())" at line 231 of file VBoxManageMisc.cpp
+vboxmanage.exe: error: Could not find a registered machine named 'test02'
+vboxmanage.exe: error: Details: code VBOX_E_OBJECT_NOT_FOUND (0x80bb0001), component VirtualBoxWrap, interface IVirtualBox, callee IUnknown
+vboxmanage.exe: error: Context: "FindMachine(Bstr(a->argv[0]).raw(), machine.asOutParam())" at line 366 of file VBoxManageControlVM.cpp
+vboxmanage.exe: error: Could not find a registered machine named 'test02'
+vboxmanage.exe: error: Details: code VBOX_E_OBJECT_NOT_FOUND (0x80bb0001), component VirtualBoxWrap, interface IVirtualBox, callee IUnknown
+vboxmanage.exe: error: Context: "FindMachine(Bstr(a->argv[0]).raw(), machine.asOutParam())" at line 366 of file VBoxManageControlVM.cpp
+vboxmanage.exe: error: Could not find a registered machine named 'test02'
+vboxmanage.exe: error: Details: code VBOX_E_OBJECT_NOT_FOUND (0x80bb0001), component VirtualBoxWrap, interface IVirtualBox, callee IUnknown
+vboxmanage.exe: error: Context: "FindMachine(Bstr(VMName).raw(), machine.asOutParam())" at line 231 of file VBoxManageMisc.cpp
+vboxmanage.exe: error: Could not find a registered machine named 'test02'
+vboxmanage.exe: error: Details: code VBOX_E_OBJECT_NOT_FOUND (0x80bb0001), component VirtualBoxWrap, interface IVirtualBox, callee IUnknown
+vboxmanage.exe: error: Context: "FindMachine(Bstr(VMName).raw(), machine.asOutParam())" at line 231 of file VBoxManageMisc.cpp
+vboxmanage.exe: error: Could not find a registered machine named 'test01'
+vboxmanage.exe: error: Details: code VBOX_E_OBJECT_NOT_FOUND (0x80bb0001), component VirtualBoxWrap, interface IVirtualBox, callee IUnknown
+vboxmanage.exe: error: Context: "FindMachine(Bstr(a->argv[0]).raw(), machine.asOutParam())" at line 366 of file VBoxManageControlVM.cpp
+vboxmanage.exe: error: Could not find a registered machine named 'test01'
+vboxmanage.exe: error: Details: code VBOX_E_OBJECT_NOT_FOUND (0x80bb0001), component VirtualBoxWrap, interface IVirtualBox, callee IUnknown
+vboxmanage.exe: error: Context: "FindMachine(Bstr(a->argv[0]).raw(), machine.asOutParam())" at line 366 of file VBoxManageControlVM.cpp
+vboxmanage.exe: error: Could not find a registered machine named 'test01'
+vboxmanage.exe: error: Details: code VBOX_E_OBJECT_NOT_FOUND (0x80bb0001), component VirtualBoxWrap, interface IVirtualBox, callee IUnknown
+vboxmanage.exe: error: Context: "FindMachine(Bstr(VMName).raw(), machine.asOutParam())" at line 231 of file VBoxManageMisc.cpp
+vboxmanage.exe: error: Could not find a registered machine named 'test01'
+vboxmanage.exe: error: Details: code VBOX_E_OBJECT_NOT_FOUND (0x80bb0001), component VirtualBoxWrap, interface IVirtualBox, callee IUnknown
+vboxmanage.exe: error: Context: "FindMachine(Bstr(VMName).raw(), machine.asOutParam())" at line 231 of file VBoxManageMisc.cpp
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+vboxmanage.exe: error: Could not find a registered machine named 'test01'
+vboxmanage.exe: error: Details: code VBOX_E_OBJECT_NOT_FOUND (0x80bb0001), component VirtualBoxWrap, interface IVirtualBox, callee IUnknown
+vboxmanage.exe: error: Context: "FindMachine(Bstr(a->argv[0]).raw(), machine.asOutParam())" at line 366 of file VBoxManageControlVM.cpp
+vboxmanage.exe: error: Could not find a registered machine named 'test01'
+vboxmanage.exe: error: Details: code VBOX_E_OBJECT_NOT_FOUND (0x80bb0001), component VirtualBoxWrap, interface IVirtualBox, callee IUnknown
+vboxmanage.exe: error: Context: "FindMachine(Bstr(a->argv[0]).raw(), machine.asOutParam())" at line 366 of file VBoxManageControlVM.cpp
+vboxmanage.exe: error: Could not find a registered machine named 'test01'
+vboxmanage.exe: error: Details: code VBOX_E_OBJECT_NOT_FOUND (0x80bb0001), component VirtualBoxWrap, interface IVirtualBox, callee IUnknown
+vboxmanage.exe: error: Context: "FindMachine(Bstr(VMName).raw(), machine.asOutParam())" at line 231 of file VBoxManageMisc.cpp
+vboxmanage.exe: error: Could not find a registered machine named 'test01'
+vboxmanage.exe: error: Details: code VBOX_E_OBJECT_NOT_FOUND (0x80bb0001), component VirtualBoxWrap, interface IVirtualBox, callee IUnknown
+vboxmanage.exe: error: Context: "FindMachine(Bstr(VMName).raw(), machine.asOutParam())" at line 231 of file VBoxManageMisc.cpp
+vboxmanage.exe: error: Could not find a registered machine named 'test01'
+vboxmanage.exe: error: Details: code VBOX_E_OBJECT_NOT_FOUND (0x80bb0001), component VirtualBoxWrap, interface IVirtualBox, callee IUnknown
+vboxmanage.exe: error: Context: "FindMachine(Bstr(a->argv[0]).raw(), machine.asOutParam())" at line 366 of file VBoxManageControlVM.cpp
+vboxmanage.exe: error: Could not find a registered machine named 'test01'
+vboxmanage.exe: error: Details: code VBOX_E_OBJECT_NOT_FOUND (0x80bb0001), component VirtualBoxWrap, interface IVirtualBox, callee IUnknown
+vboxmanage.exe: error: Context: "FindMachine(Bstr(a->argv[0]).raw(), machine.asOutParam())" at line 366 of file VBoxManageControlVM.cpp
+vboxmanage.exe: error: Could not find a registered machine named 'test01'
+vboxmanage.exe: error: Details: code VBOX_E_OBJECT_NOT_FOUND (0x80bb0001), component VirtualBoxWrap, interface IVirtualBox, callee IUnknown
+vboxmanage.exe: error: Context: "FindMachine(Bstr(VMName).raw(), machine.asOutParam())" at line 231 of file VBoxManageMisc.cpp
+vboxmanage.exe: error: Could not find a registered machine named 'test01'
+vboxmanage.exe: error: Details: code VBOX_E_OBJECT_NOT_FOUND (0x80bb0001), component VirtualBoxWrap, interface IVirtualBox, callee IUnknown
+vboxmanage.exe: error: Context: "FindMachine(Bstr(VMName).raw(), machine.asOutParam())" at line 231 of file VBoxManageMisc.cpp
+vboxmanage.exe: error: Could not find a registered machine named 'test01'
+vboxmanage.exe: error: Details: code VBOX_E_OBJECT_NOT_FOUND (0x80bb0001), component VirtualBoxWrap, interface IVirtualBox, callee IUnknown
+vboxmanage.exe: error: Context: "FindMachine(Bstr(a->argv[0]).raw(), machine.asOutParam())" at line 366 of file VBoxManageControlVM.cpp
+vboxmanage.exe: error: Could not find a registered machine named 'test01'
+vboxmanage.exe: error: Details: code VBOX_E_OBJECT_NOT_FOUND (0x80bb0001), component VirtualBoxWrap, interface IVirtualBox, callee IUnknown
+vboxmanage.exe: error: Context: "FindMachine(Bstr(a->argv[0]).raw(), machine.asOutParam())" at line 366 of file VBoxManageControlVM.cpp
+vboxmanage.exe: error: Could not find a registered machine named 'test01'
+vboxmanage.exe: error: Details: code VBOX_E_OBJECT_NOT_FOUND (0x80bb0001), component VirtualBoxWrap, interface IVirtualBox, callee IUnknown
+vboxmanage.exe: error: Context: "FindMachine(Bstr(VMName).raw(), machine.asOutParam())" at line 231 of file VBoxManageMisc.cpp
+vboxmanage.exe: error: Could not find a registered machine named 'test01'
+vboxmanage.exe: error: Details: code VBOX_E_OBJECT_NOT_FOUND (0x80bb0001), component VirtualBoxWrap, interface IVirtualBox, callee IUnknown
+vboxmanage.exe: error: Context: "FindMachine(Bstr(VMName).raw(), machine.asOutParam())" at line 231 of file VBoxManageMisc.cpp
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+vboxmanage.exe: error: Machine 'test04' is not currently running.
+vboxmanage.exe: error: Machine 'test04' is not currently running.
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+vboxmanage.exe: error: Could not find a registered machine named 'test04'
+vboxmanage.exe: error: Details: code VBOX_E_OBJECT_NOT_FOUND (0x80bb0001), component VirtualBoxWrap, interface IVirtualBox, callee IUnknown
+vboxmanage.exe: error: Context: "FindMachine(Bstr(a->argv[0]).raw(), machine.asOutParam())" at line 366 of file VBoxManageControlVM.cpp
+vboxmanage.exe: error: Could not find a registered machine named 'test04'
+vboxmanage.exe: error: Details: code VBOX_E_OBJECT_NOT_FOUND (0x80bb0001), component VirtualBoxWrap, interface IVirtualBox, callee IUnknown
+vboxmanage.exe: error: Context: "FindMachine(Bstr(a->argv[0]).raw(), machine.asOutParam())" at line 366 of file VBoxManageControlVM.cpp
+vboxmanage.exe: error: Could not find a registered machine named 'test04'
+vboxmanage.exe: error: Details: code VBOX_E_OBJECT_NOT_FOUND (0x80bb0001), component VirtualBoxWrap, interface IVirtualBox, callee IUnknown
+vboxmanage.exe: error: Context: "FindMachine(Bstr(VMName).raw(), machine.asOutParam())" at line 231 of file VBoxManageMisc.cpp
+vboxmanage.exe: error: Could not find a registered machine named 'test04'
+vboxmanage.exe: error: Details: code VBOX_E_OBJECT_NOT_FOUND (0x80bb0001), component VirtualBoxWrap, interface IVirtualBox, callee IUnknown
+vboxmanage.exe: error: Context: "FindMachine(Bstr(VMName).raw(), machine.asOutParam())" at line 231 of file VBoxManageMisc.cpp
+vboxmanage.exe: error: Could not find a registered machine named 'new01'
+vboxmanage.exe: error: Details: code VBOX_E_OBJECT_NOT_FOUND (0x80bb0001), component VirtualBoxWrap, interface IVirtualBox, callee IUnknown
+vboxmanage.exe: error: Context: "FindMachine(Bstr(a->argv[0]).raw(), machine.asOutParam())" at line 366 of file VBoxManageControlVM.cpp
+vboxmanage.exe: error: Could not find a registered machine named 'new01'
+vboxmanage.exe: error: Details: code VBOX_E_OBJECT_NOT_FOUND (0x80bb0001), component VirtualBoxWrap, interface IVirtualBox, callee IUnknown
+vboxmanage.exe: error: Context: "FindMachine(Bstr(a->argv[0]).raw(), machine.asOutParam())" at line 366 of file VBoxManageControlVM.cpp
+vboxmanage.exe: error: Could not find a registered machine named 'new01'
+vboxmanage.exe: error: Details: code VBOX_E_OBJECT_NOT_FOUND (0x80bb0001), component VirtualBoxWrap, interface IVirtualBox, callee IUnknown
+vboxmanage.exe: error: Context: "FindMachine(Bstr(VMName).raw(), machine.asOutParam())" at line 231 of file VBoxManageMisc.cpp
+vboxmanage.exe: error: Could not find a registered machine named 'new01'
+vboxmanage.exe: error: Details: code VBOX_E_OBJECT_NOT_FOUND (0x80bb0001), component VirtualBoxWrap, interface IVirtualBox, callee IUnknown
+vboxmanage.exe: error: Context: "FindMachine(Bstr(VMName).raw(), machine.asOutParam())" at line 231 of file VBoxManageMisc.cpp
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+vboxmanage.exe: error: Machine 'new101' is not currently running.
+vboxmanage.exe: error: Machine 'new101' is not currently running.
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+vboxmanage.exe: error: Machine 'new101' is not currently running.
+vboxmanage.exe: error: Machine 'new101' is not currently running.
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+vboxmanage.exe: error: Machine 'new101' is not currently running.
+vboxmanage.exe: error: Machine 'new101' is not currently running.
+0%...10%...20%...VBOX_E_FILE_ERROR
+vboxmanage.exe: error: Machine delete failed
+vboxmanage.exe: error: Could not delete the medium storage unit 'C:\Users\AAttigeri\VirtualBox VMs\new101\Snapshots\{59d894c8-8360-4b70-ae91-f3101dbe488c}.vdi'.
+vboxmanage.exe: error: VD: error VERR_PATH_NOT_FOUND opening image file 'C:\Users\AAttigeri\VirtualBox VMs\new101\Snapshots\{59d894c8-8360-4b70-ae91-f3101dbe488c}.vdi' (VERR_PATH_NOT_FOUND)
+vboxmanage.exe: error: Details: code VBOX_E_FILE_ERROR (0x80bb0004), component MediumWrap, interface IMedium
+vboxmanage.exe: error: Context: "enum RTEXITCODE __cdecl handleUnregisterVM(struct HandlerArg *)" at line 244 of file VBoxManageMisc.cpp
+vboxmanage.exe: error: Could not find a registered machine named 'new101'
+vboxmanage.exe: error: Details: code VBOX_E_OBJECT_NOT_FOUND (0x80bb0001), component VirtualBoxWrap, interface IVirtualBox, callee IUnknown
+vboxmanage.exe: error: Context: "FindMachine(Bstr(VMName).raw(), machine.asOutParam())" at line 231 of file VBoxManageMisc.cpp
+vboxmanage.exe: error: Could not find a registered machine named 'test100'
+vboxmanage.exe: error: Details: code VBOX_E_OBJECT_NOT_FOUND (0x80bb0001), component VirtualBoxWrap, interface IVirtualBox, callee IUnknown
+vboxmanage.exe: error: Context: "FindMachine(Bstr(a->argv[0]).raw(), machine.asOutParam())" at line 366 of file VBoxManageControlVM.cpp
+vboxmanage.exe: error: Could not find a registered machine named 'test100'
+vboxmanage.exe: error: Details: code VBOX_E_OBJECT_NOT_FOUND (0x80bb0001), component VirtualBoxWrap, interface IVirtualBox, callee IUnknown
+vboxmanage.exe: error: Context: "FindMachine(Bstr(a->argv[0]).raw(), machine.asOutParam())" at line 366 of file VBoxManageControlVM.cpp
+vboxmanage.exe: error: Could not find a registered machine named 'test100'
+vboxmanage.exe: error: Details: code VBOX_E_OBJECT_NOT_FOUND (0x80bb0001), component VirtualBoxWrap, interface IVirtualBox, callee IUnknown
+vboxmanage.exe: error: Context: "FindMachine(Bstr(VMName).raw(), machine.asOutParam())" at line 231 of file VBoxManageMisc.cpp
+vboxmanage.exe: error: Could not find a registered machine named 'test100'
+vboxmanage.exe: error: Details: code VBOX_E_OBJECT_NOT_FOUND (0x80bb0001), component VirtualBoxWrap, interface IVirtualBox, callee IUnknown
+vboxmanage.exe: error: Context: "FindMachine(Bstr(VMName).raw(), machine.asOutParam())" at line 231 of file VBoxManageMisc.cpp
+vboxmanage.exe: error: Machine 'new101' is not currently running.
+vboxmanage.exe: error: Machine 'new101' is not currently running.
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+vboxmanage.exe: error: Could not find a registered machine named 'test100'
+vboxmanage.exe: error: Details: code VBOX_E_OBJECT_NOT_FOUND (0x80bb0001), component VirtualBoxWrap, interface IVirtualBox, callee IUnknown
+vboxmanage.exe: error: Context: "FindMachine(Bstr(a->argv[0]).raw(), machine.asOutParam())" at line 366 of file VBoxManageControlVM.cpp
+vboxmanage.exe: error: Machine 'test100' is not currently running.
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+vboxmanage.exe: error: An unexpected process (PID=0x00000CCC) has tried to lock the machine 'new101', while only the process started by LaunchVMProcess (PID=0x00007FE0) is allowed
+vboxmanage.exe: error: Details: code E_ACCESSDENIED (0x80070005), component MachineWrap, interface IMachine, callee IUnknown
+vboxmanage.exe: error: Context: "LockMachine(a->session, LockType_Shared)" at line 371 of file VBoxManageControlVM.cpp
+vboxmanage.exe: error: Cannot unregister the machine 'new101' while it is locked
+vboxmanage.exe: error: Details: code VBOX_E_INVALID_OBJECT_STATE (0x80bb0007), component MachineWrap, interface IMachine, callee IUnknown
+vboxmanage.exe: error: Context: "Unregister(fDeleteAll ? CleanupMode_DetachAllReturnHardDisksAndVMRemovable :CleanupMode_DetachAllReturnHardDisksOnly, ComSafeArrayAsOutParam(aMedia))" at line 236 of file VBoxManageMisc.cpp
+vboxmanage.exe: error: Could not find a registered machine named 'BaseVM'
+vboxmanage.exe: error: Details: code VBOX_E_OBJECT_NOT_FOUND (0x80bb0001), component VirtualBoxWrap, interface IVirtualBox, callee IUnknown
+vboxmanage.exe: error: Context: "FindMachine(Bstr(a->argv[0]).raw(), machine.asOutParam())" at line 366 of file VBoxManageControlVM.cpp
+vboxmanage.exe: error: Could not find a registered machine named 'BaseVM'
+vboxmanage.exe: error: Details: code VBOX_E_OBJECT_NOT_FOUND (0x80bb0001), component VirtualBoxWrap, interface IVirtualBox, callee IUnknown
+vboxmanage.exe: error: Context: "FindMachine(Bstr(VMName).raw(), machine.asOutParam())" at line 231 of file VBoxManageMisc.cpp
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+vboxmanage.exe: error: Machine 'new17' is not currently running.
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+vboxmanage.exe: error: Machine 'new20' is not currently running.
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+vboxmanage.exe: error: An unexpected process (PID=0x00000E68) has tried to lock the machine 'test15', while only the process started by LaunchVMProcess (PID=0x00004D34) is allowed
+vboxmanage.exe: error: Details: code E_ACCESSDENIED (0x80070005), component MachineWrap, interface IMachine, callee IUnknown
+vboxmanage.exe: error: Context: "LockMachine(a->session, LockType_Shared)" at line 371 of file VBoxManageControlVM.cpp
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+vboxmanage.exe: error: An unexpected process (PID=0x00006BB0) has tried to lock the machine 'test23', while only the process started by LaunchVMProcess (PID=0x000068A0) is allowed
+vboxmanage.exe: error: Details: code E_ACCESSDENIED (0x80070005), component MachineWrap, interface IMachine, callee IUnknown
+vboxmanage.exe: error: Context: "LockMachine(a->session, LockType_Shared)" at line 371 of file VBoxManageControlVM.cpp
+vboxmanage.exe: error: An unexpected process (PID=0x000068BC) has tried to lock the machine 'test22', while only the process started by LaunchVMProcess (PID=0x00006850) is allowed
+vboxmanage.exe: error: Details: code E_ACCESSDENIED (0x80070005), component MachineWrap, interface IMachine, callee IUnknown
+vboxmanage.exe: error: Context: "LockMachine(a->session, LockType_Shared)" at line 371 of file VBoxManageControlVM.cpp
+vboxmanage.exe: error: Cannot unregister the machine 'test23' while it is locked
+vboxmanage.exe: error: Details: code VBOX_E_INVALID_OBJECT_STATE (0x80bb0007), component MachineWrap, interface IMachine, callee IUnknown
+vboxmanage.exe: error: Context: "Unregister(fDeleteAll ? CleanupMode_DetachAllReturnHardDisksAndVMRemovable :CleanupMode_DetachAllReturnHardDisksOnly, ComSafeArrayAsOutParam(aMedia))" at line 236 of file VBoxManageMisc.cpp
+vboxmanage.exe: error: Machine 'test21' is not currently running.
+vboxmanage.exe: error: Cannot unregister the machine 'test22' while it is locked
+vboxmanage.exe: error: Details: code VBOX_E_INVALID_OBJECT_STATE (0x80bb0007), component MachineWrap, interface IMachine, callee IUnknown
+vboxmanage.exe: error: Context: "Unregister(fDeleteAll ? CleanupMode_DetachAllReturnHardDisksAndVMRemovable :CleanupMode_DetachAllReturnHardDisksOnly, ComSafeArrayAsOutParam(aMedia))" at line 236 of file VBoxManageMisc.cpp
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+vboxmanage.exe: error: Invalid machine state: PoweredOff (must be Running, Paused or Stuck)
+vboxmanage.exe: error: Details: code VBOX_E_INVALID_VM_STATE (0x80bb0002), component ConsoleWrap, interface IConsole, callee IUnknown
+vboxmanage.exe: error: Context: "PowerDown(progress.asOutParam())" at line 604 of file VBoxManageControlVM.cpp
+vboxmanage.exe: error: Cannot unregister the machine 'test21' while it is locked
+vboxmanage.exe: error: Details: code VBOX_E_INVALID_OBJECT_STATE (0x80bb0007), component MachineWrap, interface IMachine, callee IUnknown
+vboxmanage.exe: error: Context: "Unregister(fDeleteAll ? CleanupMode_DetachAllReturnHardDisksAndVMRemovable :CleanupMode_DetachAllReturnHardDisksOnly, ComSafeArrayAsOutParam(aMedia))" at line 236 of file VBoxManageMisc.cpp
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+vboxmanage.exe: error: Machine 'test22' is not currently running.
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+vboxmanage.exe: error: Machine 'test51' is not currently running.
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+vboxmanage.exe: error: Machine 'BaseVM' is not currently running.
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+vboxmanage.exe: error: Machine 'BaseVM' is not currently running.
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+vboxmanage.exe: error: Machine 'BaseVM' is not currently running.
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+vboxmanage.exe: error: Machine 'BaseVM' is not currently running.
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+vboxmanage.exe: error: Machine 'BaseVM' is not currently running.
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+vboxmanage.exe: error: Could not find a registered machine named 'test2'
+vboxmanage.exe: error: Details: code VBOX_E_OBJECT_NOT_FOUND (0x80bb0001), component VirtualBoxWrap, interface IVirtualBox, callee IUnknown
+vboxmanage.exe: error: Context: "FindMachine(Bstr(a->argv[0]).raw(), machine.asOutParam())" at line 366 of file VBoxManageControlVM.cpp
+vboxmanage.exe: error: Could not find a registered machine named 'test2'
+vboxmanage.exe: error: Details: code VBOX_E_OBJECT_NOT_FOUND (0x80bb0001), component VirtualBoxWrap, interface IVirtualBox, callee IUnknown
+vboxmanage.exe: error: Context: "FindMachine(Bstr(VMName).raw(), machine.asOutParam())" at line 231 of file VBoxManageMisc.cpp
+vboxmanage.exe: error: Could not find a registered machine named 'test2'
+vboxmanage.exe: error: Details: code VBOX_E_OBJECT_NOT_FOUND (0x80bb0001), component VirtualBoxWrap, interface IVirtualBox, callee IUnknown
+vboxmanage.exe: error: Context: "FindMachine(Bstr(a->argv[0]).raw(), machine.asOutParam())" at line 366 of file VBoxManageControlVM.cpp
+vboxmanage.exe: error: Could not find a registered machine named 'test2'
+vboxmanage.exe: error: Details: code VBOX_E_OBJECT_NOT_FOUND (0x80bb0001), component VirtualBoxWrap, interface IVirtualBox, callee IUnknown
+vboxmanage.exe: error: Context: "FindMachine(Bstr(VMName).raw(), machine.asOutParam())" at line 231 of file VBoxManageMisc.cpp
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+vboxmanage.exe: error: Machine 'test04' is not currently running.
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+vboxmanage.exe: error: Machine 'test16' is not currently running.
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+vboxmanage.exe: error: Machine 'test16' is not currently running.
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+vboxmanage.exe: error: Machine 'node' is not currently running.
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+vboxmanage.exe: error: Machine 'node' is not currently running.
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+vboxmanage.exe: error: Machine 'branch4' is not currently running.
+vboxmanage.exe: error: Machine 'branch3' is not currently running.
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+vboxmanage.exe: error: Machine 'branch9' is not currently running.
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+vboxmanage.exe: error: Machine 'branch03' is not currently running.
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+vboxmanage.exe: error: Machine 'BaseVM' is not currently running.
+0%...10%...20%...30%...VBOX_E_OBJECT_IN_USE
+vboxmanage.exe: error: Machine delete failed
+vboxmanage.exe: error: Cannot close medium 'C:\Users\AChaudhary\Desktop\Bash\VirtualBox VMs\BaseVM\BaseVM.vdi' because it has 3 child media
+vboxmanage.exe: error: Details: code VBOX_E_OBJECT_IN_USE (0x80bb000c), component MediumWrap, interface IMedium
+vboxmanage.exe: error: Context: "enum RTEXITCODE __cdecl handleUnregisterVM(struct HandlerArg *)" at line 244 of file VBoxManageMisc.cpp
+vboxmanage.exe: error: Could not find a registered machine named 'BaseVM'
+vboxmanage.exe: error: Details: code VBOX_E_OBJECT_NOT_FOUND (0x80bb0001), component VirtualBoxWrap, interface IVirtualBox, callee IUnknown
+vboxmanage.exe: error: Context: "FindMachine(Bstr(a->argv[0]).raw(), machine.asOutParam())" at line 366 of file VBoxManageControlVM.cpp
+vboxmanage.exe: error: Could not find a registered machine named 'BaseVM'
+vboxmanage.exe: error: Details: code VBOX_E_OBJECT_NOT_FOUND (0x80bb0001), component VirtualBoxWrap, interface IVirtualBox, callee IUnknown
+vboxmanage.exe: error: Context: "FindMachine(Bstr(VMName).raw(), machine.asOutParam())" at line 231 of file VBoxManageMisc.cpp
+vboxmanage.exe: error: Machine 'branch01' is not currently running.
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+vboxmanage.exe: error: Machine 'branch02' is not currently running.
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+vboxmanage.exe: error: Machine 'treebase' is not currently running.
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+vboxmanage.exe: error: Machine 'treebranch01' is not currently running.
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+vboxmanage.exe: error: Machine 'treebranch01' is not currently running.
+vboxmanage.exe: error: Machine 'treebranch02' is not currently running.
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+vboxmanage.exe: error: Machine 'treebase' is not currently running.
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+vboxmanage.exe: error: Cannot unregister the machine 'treebase1' while it is locked
+vboxmanage.exe: error: Details: code VBOX_E_INVALID_OBJECT_STATE (0x80bb0007), component MachineWrap, interface IMachine, callee IUnknown
+vboxmanage.exe: error: Context: "Unregister(fDeleteAll ? CleanupMode_DetachAllReturnHardDisksAndVMRemovable :CleanupMode_DetachAllReturnHardDisksOnly, ComSafeArrayAsOutParam(aMedia))" at line 236 of file VBoxManageMisc.cpp
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
+0%...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%

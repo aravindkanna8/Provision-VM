@@ -1,0 +1,9 @@
+{
+    "server_ip": "192.168.56.2",
+    "ntp_allowed_ip": "192.168.56.0/24", 
+    "dhcp_range": "192.168.56.100 192.168.56.200",
+    "iso_url": "http://164.99.147.62/dist/install/OES2023-SP1/Preview13/OES2023-SP1-DVD-x86_64-Preview13-Media1.iso",
+    "basevm_autoyast_url": "https://192.168.56.1:8038/BaseVM/BaseVM.xml",
+    "https-ca": "https://192.168.56.1:8038/BaseVM/ca.pem"
+  }
+  

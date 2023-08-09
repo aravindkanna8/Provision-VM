@@ -1,0 +1,64 @@
+{
+  "clone": {
+    "name": "BaseVM",
+    "root_pswd": "root",
+    "snapshot": "cloning",
+    "edir_pass": "root"
+  },
+  "sshops": {
+    "pswd": "root",
+    "passphrase": "root",
+    "exist_path": "C:\\Users\\AChaudhary\\Desktop\\Bash\\auto_existing\\autoinst.xml",
+    "new_path": "C:\\Users\\AChaudhary\\Desktop\\Bash\\auto_new\\autoinst.xml",
+    "ca_key_path": "/home/mobaxterm/.ssh/ca-keys/ca-auth.pub",
+    "ca_key_name": "ca-auth.pub",
+    "certificate_file": "/home/mobaxterm/.ssh/amar/amar-key-cert.pub",
+    "identity_file": "/home/mobaxterm/.ssh/amar/amar-key",
+    "ssh_path": "C:/Users/AChaudhary/AppData/Roaming/MobaXterm/home/.ssh",
+    "root_certificate_file": "/home/mobaxterm/.ssh/root/root-key-cert.pub",
+    "root_identity_file": "/home/mobaxterm/.ssh/root/root-key"
+  },
+  "autoyast": {
+    "site_name": "vms",
+    "site_folder": "C:\\Users\\AChaudhary\\Desktop\\Bash\\vms",
+    "port": "7443",
+    "file_path": "C:\\Users\\AChaudhary\\Desktop\\Bash\\auto_basevm\\autoinst_old.xml",
+    "https_folder": "C:\\Users\\AChaudhary\\Desktop\\Bash",
+    "host": "amar"
+  },
+  "init_params": {
+    "iso_url": "http://164.99.147.62/dist/install/OES2023-SP1/Preview13/OES2023-SP1-DVD-x86_64-Preview13-Media1.iso",
+    "dest_folder": "C:\\Users\\AChaudhary\\Downloads\\",
+    "iso": "C:\\\\Users\\\\AChaudhary\\\\Downloads\\\\OES2023-SP1-DVD-x86_64-Preview13-Media1.iso"
+  },
+  "cluster": {
+    "new_cluster": "C:\\Users\\AChaudhary\\Desktop\\Bash\\auto_new_cluster\\autoinst.xml",
+    "existing_cluster": "C:\\Users\\AChaudhary\\Desktop\\Bash\\auto_existing_cluster\\autoinst.xml",
+    "ncs_macro_new": "/home/mobaxterm/Desktop/Bash/auto_new_cluster/newclustermacro.ycp",
+    "ncs_macro_existing": "/home/mobaxterm/Desktop/Bash/auto_existing_cluster/existingclustermacro.ycp"
+  },
+  "https": {
+    "opensslPath": "C:\\Program Files\\Git\\usr\\bin\\openssl.exe",
+    "keyfolder": "C:\\Users\\AChaudhary\\Desktop\\Bash\\openssl",
+    "privateKeyPath": "C:\\Users\\AChaudhary\\Desktop\\Bash\\openssl\\ca-key.pem",
+    "certificatePath": "C:\\Users\\AChaudhary\\Desktop\\Bash\\openssl\\ca.pem",
+    "rootPrivateKeyPath": "C:\\Users\\AChaudhary\\Desktop\\Bash\\openssl\\ca-key.pem",
+    "rootCertificatePath": "C:\\Users\\AChaudhary\\Desktop\\Bash\\openssl\\ca.pem",
+    "certKeyPath": "C:\\Users\\AChaudhary\\Desktop\\Bash\\openssl\\cert-key.pem",
+    "csrPath": "C:\\Users\\AChaudhary\\Desktop\\Bash\\openssl\\cert.csr",
+    "certPath": "C:\\Users\\AChaudhary\\Desktop\\Bash\\openssl\\cert.pem",
+    "extfilePath": "C:\\Users\\AChaudhary\\Desktop\\Bash\\openssl\\extfile.cnf",
+    "pfxPath": "C:\\Users\\AChaudhary\\Desktop\\Bash\\openssl\\cert.pfx",
+    "bits": "4096",
+    "days": "365",
+    "commonName": "/CN=Amar",
+    "pass": "novell",
+    "Password": "novell",
+    "output": "ipconfig /all",
+    "thumb": "1AD3FD0BABA2898108285692599EF9F9A261390B",
+    "sub": "/C=IN/ST=KR/L=BLR/O=MF/OU=NL/CN=Amar/emailAddress=aamar@gmail.com",
+    "extsub": "[dn]\nC=IN\nST=KR\nL=BLR\nO=MF\nOU=NL\nCN=Amar\nemailAddress=amar@gmail.com",
+    "certkpath": "C:\\Users\\AChaudhary\\Desktop\\Bash\\openssl",
+    "cerpath": "C:\\Users\\AChaudhary\\Desktop\\Bash\\openssl"
+  }
+}
