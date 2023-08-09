@@ -1,0 +1,411 @@
+<?xml version="1.0"?>
+<!DOCTYPE profile>
+<profile xmlns="http://www.suse.com/1.0/yast2ns" xmlns:config="http://www.suse.com/1.0/configns">
+<oes-ldap t="map">
+    <admin_context>cn=admin.o=mf</admin_context>
+    <admin_password>Replace this text with the real password</admin_password>
+    <common_proxy_context>o=mf</common_proxy_context>
+    <ldap_servers t="list">
+      <listentry t="map">
+        <ip_address>newtree</ip_address>
+        <ldap_port t="integer">389</ldap_port>
+        <ldaps_port t="integer">636</ldaps_port>
+      </listentry>
+      <listentry t="map">
+        <ip_address>192.168.224.98</ip_address>
+        <ldap_port t="integer">389</ldap_port>
+        <ldaps_port t="integer">636</ldaps_port>
+      </listentry>
+    </ldap_servers>
+    <tree_name>TREE_NEW1</tree_name>
+    <use_common_proxy>yes</use_common_proxy>
+    <xad_tree_admin_context/>
+    <xad_tree_admin_password>Replace this text with the real password</xad_tree_admin_password>
+  </oes-ldap>
+<edirectory t="map">
+    <cert_mutual>no</cert_mutual>
+    <challenge_response>yes</challenge_response>
+    <create_server_object>yes</create_server_object>
+    <dib_location>/var/opt/novell/eDirectory/data/dib</dib_location>
+    <digest_md5>no</digest_md5>
+    <domain_name/>
+    <existing_dns_ip/>
+    <group_context/>
+    <host_name/>
+    <http_port t="integer">8028</http_port>
+    <https_port t="integer">8030</https_port>
+    <install_secretstore>yes</install_secretstore>
+    <install_universalstore>yes</install_universalstore>
+    <ldap_basedn/>
+    <ldap_server/>
+    <locator_context/>
+    <migrate_option>no</migrate_option>
+    <nds>yes</nds>
+    <ntp_server_list t="list">
+      <listentry>192.168.56.2</listentry>
+    </ntp_server_list>
+    <ocs_store>yes</ocs_store>
+    <overwrite_cert_files>yes</overwrite_cert_files>
+    <replica_server/>
+    <runtime_admin/>
+    <runtime_admin_password>Replace this text with the real password</runtime_admin_password>
+    <sasl_gssapi>no</sasl_gssapi>
+    <server_context>o=mf</server_context>
+    <server_object>cn=DNS_edir-,o=mf</server_object>
+    <simple_password>no</simple_password>
+    <slp_backup>yes</slp_backup>
+    <slp_backup_interval>900</slp_backup_interval>
+    <slp_da t="list">
+      <listentry>192.168.56.2</listentry>
+    </slp_da>
+    <slp_dasync>no</slp_dasync>
+    <slp_mode>da</slp_mode>
+    <slp_scopes>DEFAULT</slp_scopes>
+    <tls_for_simple_binds>yes</tls_for_simple_binds>
+    <tree_type>new</tree_type>
+    <use_secure_port>yes</use_secure_port>
+    <xad_admin_password>Replace this text with the real password</xad_admin_password>
+    <xad_config_dns/>
+    <xad_convert_existing_container/>
+    <xad_domain_name/>
+    <xad_domain_type/>
+    <xad_existing_container/>
+    <xad_forest_root/>
+    <xad_ldap_admin_context/>
+    <xad_ldap_admin_password>Replace this text with the real password</xad_ldap_admin_password>
+    <xad_netbios/>
+    <xad_parent_domain/>
+    <xad_parent_domain_address/>
+    <xad_parent_domain_admin_context/>
+    <xad_parent_domain_admin_password>Replace this text with the real password</xad_parent_domain_admin_password>
+    <xad_replicate_partitions/>
+    <xad_retain_policies>no</xad_retain_policies>
+    <xad_service_configured/>
+    <xad_site_name/>
+    <xad_wins_server/>
+  </edirectory>
+  <networking t="map">
+    <dhcp_options t="map">
+      <dhclient_client_id/>
+      <dhclient_hostname_option>AUTO</dhclient_hostname_option>
+    </dhcp_options>
+    <dns t="map">
+      <dhcp_hostname t="boolean">true</dhcp_hostname>
+      <hostname>newtree</hostname>
+      <resolv_conf_policy>auto</resolv_conf_policy>
+    </dns>
+    <interfaces t="list">
+      <interface t="map">
+        <bootproto>dhcp</bootproto>
+        <name>eth0</name>
+        <startmode>auto</startmode>
+        <zone>public</zone>
+      </interface>
+      <interface t="map">
+        <bootproto>static</bootproto>
+        <ipaddr>192.168.224.67</ipaddr>
+        <name>eth1</name>
+        <prefixlen>24</prefixlen>
+        <startmode>auto</startmode>
+        <zone>public</zone>
+      </interface>
+    </interfaces>
+    <ipv6 t="boolean">false</ipv6>
+    <keep_install_network t="boolean">true</keep_install_network>
+    <managed t="boolean">false</managed>
+    <net-udev t="list"></net-udev>
+    <routing t="map">
+      <ipv4_forward t="boolean">false</ipv4_forward>
+      <ipv6_forward t="boolean">false</ipv6_forward>
+    </routing>
+  </networking>
+  <firewall t="map">
+    <default_zone>public</default_zone>
+    <enable_firewall t="boolean">true</enable_firewall>
+    <log_denied_packets>off</log_denied_packets>
+    <start_firewall t="boolean">true</start_firewall>
+    <zones t="list">
+      <zone t="map">
+        <description>Unsolicited incoming network packets are rejected. Incoming packets that are related to outgoing network connections are accepted. Outgoing network connections are allowed.</description>
+        <interfaces t="list"/>
+        <masquerade t="boolean">false</masquerade>
+        <name>block</name>
+        <ports t="list"/>
+        <protocols t="list"/>
+        <services t="list"/>
+        <short>Block</short>
+        <target>%%REJECT%%</target>
+      </zone>
+      <zone t="map">
+        <description>For computers in your demilitarized zone that are publicly-accessible with limited access to your internal network. Only selected incoming connections are accepted.</description>
+        <interfaces t="list"/>
+        <masquerade t="boolean">false</masquerade>
+        <name>dmz</name>
+        <ports t="list"/>
+        <protocols t="list"/>
+        <services t="list">
+          <service>ssh</service>
+        </services>
+        <short>DMZ</short>
+        <target>default</target>
+      </zone>
+      <zone t="map">
+        <description>All network connections are accepted.</description>
+        <interfaces t="list">
+          <interface>docker0</interface>
+        </interfaces>
+        <masquerade t="boolean">false</masquerade>
+        <name>docker</name>
+        <ports t="list"/>
+        <protocols t="list"/>
+        <services t="list"/>
+        <short>docker</short>
+        <target>ACCEPT</target>
+      </zone>
+      <zone t="map">
+        <description>Unsolicited incoming network packets are dropped. Incoming packets that are related to outgoing network connections are accepted. Outgoing network connections are allowed.</description>
+        <interfaces t="list"/>
+        <masquerade t="boolean">false</masquerade>
+        <name>drop</name>
+        <ports t="list"/>
+        <protocols t="list"/>
+        <services t="list"/>
+        <short>Drop</short>
+        <target>DROP</target>
+      </zone>
+      <zone t="map">
+        <description>For use on external networks. You do not trust the other computers on networks to not harm your computer. Only selected incoming connections are accepted.</description>
+        <interfaces t="list"/>
+        <masquerade t="boolean">true</masquerade>
+        <name>external</name>
+        <ports t="list"/>
+        <protocols t="list"/>
+        <services t="list">
+          <service>ssh</service>
+        </services>
+        <short>External</short>
+        <target>default</target>
+      </zone>
+      <zone t="map">
+        <description>For use in home areas. You mostly trust the other computers on networks to not harm your computer. Only selected incoming connections are accepted.</description>
+        <interfaces t="list"/>
+        <masquerade t="boolean">false</masquerade>
+        <name>home</name>
+        <ports t="list"/>
+        <protocols t="list"/>
+        <services t="list">
+          <service>dhcpv6-client</service>
+          <service>mdns</service>
+          <service>samba-client</service>
+          <service>ssh</service>
+        </services>
+        <short>Home</short>
+        <target>default</target>
+      </zone>
+      <zone t="map">
+        <description>For use on internal networks. You mostly trust the other computers on the networks to not harm your computer. Only selected incoming connections are accepted.</description>
+        <interfaces t="list"/>
+        <masquerade t="boolean">false</masquerade>
+        <name>internal</name>
+        <ports t="list"/>
+        <protocols t="list"/>
+        <services t="list">
+          <service>dhcpv6-client</service>
+          <service>mdns</service>
+          <service>samba-client</service>
+          <service>ssh</service>
+        </services>
+        <short>Internal</short>
+        <target>default</target>
+      </zone>
+      <zone t="map">
+        <description>For use in public areas. You do not trust the other computers on networks to not harm your computer. Only selected incoming connections are accepted.</description>
+        <interfaces t="list">
+          <interface>eth2</interface>
+          <interface>eth3</interface>
+        </interfaces>
+        <masquerade t="boolean">false</masquerade>
+        <name>public</name>
+        <ports t="list">
+          <port>389/tcp</port>
+          <port>636/tcp</port>
+          <port>8028/tcp</port>
+          <port>8030/tcp</port>
+          <port>524/tcp</port>
+          <port>524/udp</port>
+          <port>123/udp</port>
+          <port>7023/tcp</port>
+          <port>224/udp</port>
+          <port>427/tcp</port>
+          <port>427/udp</port>
+          <port>40193/tcp</port>
+          <port>80/tcp</port>
+          <port>443/tcp</port>
+          <port>5989/tcp</port>
+          <port>8008/tcp</port>
+          <port>8009/tcp</port>
+        </ports>
+        <protocols t="list"/>
+        <services t="list">
+          <service>dhcpv6-client</service>
+          <service>ssh</service>
+        </services>
+        <short>Public</short>
+        <target>default</target>
+      </zone>
+      <zone t="map">
+        <description>All network connections are accepted.</description>
+        <interfaces t="list"/>
+        <masquerade t="boolean">false</masquerade>
+        <name>trusted</name>
+        <ports t="list"/>
+        <protocols t="list"/>
+        <services t="list"/>
+        <short>Trusted</short>
+        <target>ACCEPT</target>
+      </zone>
+      <zone t="map">
+        <description>For use in work areas. You mostly trust the other computers on networks to not harm your computer. Only selected incoming connections are accepted.</description>
+        <interfaces t="list"/>
+        <masquerade t="boolean">false</masquerade>
+        <name>work</name>
+        <ports t="list"/>
+        <protocols t="list"/>
+        <services t="list">
+          <service>dhcpv6-client</service>
+          <service>ssh</service>
+        </services>
+        <short>Work</short>
+        <target>default</target>
+      </zone>
+    </zones>
+  </firewall>
+  <host t="map">
+    <hosts t="list">
+      <hosts_entry t="map">
+        <host_address>127.0.0.1</host_address>
+        <names t="list">
+          <name>localhost</name>
+        </names>
+      </hosts_entry>
+      <hosts_entry t="map">
+        <host_address>192.168.224.98</host_address>
+        <names t="list">
+          <name>newtree</name>
+        </names>
+      </hosts_entry>
+      <hosts_entry t="map">
+        <host_address>::1</host_address>
+        <names t="list">
+          <name>localhost ipv6-localhost ipv6-loopback</name>
+        </names>
+      </hosts_entry>
+      <hosts_entry t="map">
+        <host_address>fe00::0</host_address>
+        <names t="list">
+          <name>ipv6-localnet</name>
+        </names>
+      </hosts_entry>
+      <hosts_entry t="map">
+        <host_address>ff00::0</host_address>
+        <names t="list">
+          <name>ipv6-mcastprefix</name>
+        </names>
+      </hosts_entry>
+      <hosts_entry t="map">
+        <host_address>ff02::1</host_address>
+        <names t="list">
+          <name>ipv6-allnodes</name>
+        </names>
+      </hosts_entry>
+      <hosts_entry t="map">
+        <host_address>ff02::2</host_address>
+        <names t="list">
+          <name>ipv6-allrouters</name>
+        </names>
+      </hosts_entry>
+      <hosts_entry t="map">
+        <host_address>ff02::3</host_address>
+        <names t="list">
+          <name>ipv6-allhosts</name>
+        </names>
+      </hosts_entry>
+    </hosts>
+  </host>
+  <novell-cifs t="map">
+    <cifs_edir_contexts t="list">
+      <listentry>ou=blr.ou=in.o=mf</listentry>
+    </cifs_edir_contexts>
+    <cifs_ldap_port t="integer">636</cifs_ldap_port>
+    <create_new_user>no</create_new_user>
+    <ldap_server>192.168.224.98</ldap_server>
+    <server_context>ou=blr,ou=in,o=mf</server_context>
+    <subtree_search>no</subtree_search>
+    <use_ocs_for_credentials>yes</use_ocs_for_credentials>
+    <use_secure_port>yes</use_secure_port>
+    <proxy_user>cn=OESCommonProxy_cluster,ou=blr,ou=in,o=mf</proxy_user>
+    <proxy_user_password>Replace this text with the real password</proxy_user_password>
+    <usercontext_rights>yes</usercontext_rights>
+  </novell-cifs>
+  <novell-lum t="map">
+    <admin_group>cn=admingroup,ou=blr,ou=in,o=mf</admin_group>
+    <alternate_ldap_servers_list1 t="list"/>
+    <alternate_ldap_servers_list2 t="list"/>
+    <ldap_server>192.168.224.98</ldap_server>
+    <lum_enabled_services t="map">
+      <ftp>no</ftp>
+      <gdm>no</gdm>
+      <gnome-screensaver>no</gnome-screensaver>
+      <gnomesu-pam>no</gnomesu-pam>
+      <login>no</login>
+      <sfcb>yes</sfcb>
+      <sshd>no</sshd>
+      <su>no</su>
+    </lum_enabled_services>
+    <partition_root>ou=blr.ou=in.o=mf</partition_root>
+    <restrict_access>yes</restrict_access>
+    <ws_context>ou=blr,ou=in,o=mf</ws_context>
+  </novell-lum>
+  <nss t="map">
+    <ldap_server>192.168.224.98</ldap_server>
+    <nit_end_range t="integer">200000</nit_end_range>
+    <nit_start_range t="integer">100000</nit_start_range>
+    <nss_edir_context>ou=blr.ou=in.o=mf</nss_edir_context>
+    <nssadmin_dn>cn=newclonevmadmin.ou=blr.ou=in.o=mf</nssadmin_dn>
+  </nss>
+  <user_defaults t="map">
+    <expire/>
+    <group>100</group>
+    <home>/home</home>
+    <inactive>-1</inactive>
+    <shell>/bin/bash</shell>
+    <unmask>022</unmask>
+  </user_defaults>
+  <users t="list">
+    null
+  </users>
+  <scripts t="map">
+    <post-scripts t="list">
+      <script t="map">
+        <debug t="boolean">true</debug>
+        <feedback t="boolean">false</feedback>
+        <feedback_type/>
+        <interpreter>shell</interpreter>
+        <notification>Running post-scripts commands</notification>
+        <source>
+          #!/bin/bash
+          curl -X POST http://164.99.199.183:5000/send-file/new3
+          sed -i '$ a\HostKey /etc/ssh/new3' /etc/ssh/sshd_config
+          sed -i '$ a\HostCertificate /etc/ssh/new3-cert.pub' /etc/ssh/sshd_config
+          chmod o-r,g-r /etc/ssh/new3
+          chmod 644 /etc/ssh/ca-auth.pub
+          sed -i '$ a\TrustedUserCAKeys /etc/ssh/ca-auth.pub' /etc/ssh/sshd_config
+          sed -i 's/#PubkeyAuthentication.*/PubkeyAuthentication yes/' /etc/ssh/sshd_config
+          sed -i 's/#PasswordAuthentication.*/PasswordAuthentication no/' /etc/ssh/sshd_config
+          sed -i 's/#ChallengeResponseAuthentication.*/ChallengeResponseAuthentication no/' /etc/ssh/sshd_config
+          systemctl restart sshd
+        </source>
+      </script>
+    </post-scripts>
+  </scripts>
+</profile>
